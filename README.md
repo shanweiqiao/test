@@ -1,7 +1,7 @@
  # A Survey of Surveys (LLMs)
 
 <div align='center'>
-  <img src=https://img.shields.io/badge/LLMs_survey-blue.svg >
+  <img src=https://img.shields.io/badge/LLMs_Survey-blue.svg >
   <img src=https://img.shields.io/badge/release-v1-orange.svg >
   <img src=https://img.shields.io/github/stars/NiuTrans/ABigSurvey >
 </div>
@@ -101,7 +101,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 #### [General](#content)
 
-1. **Instruction Tuning for Large Language Models: A Survey** arXiv (2023)
+1. **A Survey of Large Language Models** arXiv (2023)
 
    *Wayne Xin Zhao, Kun Zhou, Junyi Li, Tianyi Tang, Xiaolei Wang, Yupeng Hou, Yingqian Min, Beichen Zhang, Junjie Zhang, Zican Dong, Yifan Du, Chen Yang, Yushuo Chen, Zhipeng Chen, Jinhao Jiang, Ruiyang Ren, Yifan Li, Xinyu Tang, Zikang Liu, Peiyu Liu, Jian-Yun Nie, Ji-Rong Wen* [[Paper](https://arxiv.org/abs/2303.18223)] [[GitHub](https://github.com/RUCAIBox/LLMSurvey)]
 
@@ -124,7 +124,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 2. **Instruction Tuning for Large Language Models: A Survey**. *Shengyu Zhang et al*. arXiv 2023. [[Paper](https://arxiv.org/abs/2308.10792)] [[GitHub](https://github.com/RenzeLou/awesome-instruction-learning)] -->
 
-1. **Instruction Tuning for Large Language Models: A Survey** arXiv (2023)
+1. **A Comprehensive Survey on Instruction Following** arXiv (2023)
 
    *Renze Lou, Kai Zhang, Wenpeng Yin* [[Paper](https://arxiv.org/abs/2303.10475)] [[GitHub](https://github.com/RenzeLou/awesome-instruction-learning)]
 
