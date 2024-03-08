@@ -1,6 +1,10 @@
  # A Survey of Surveys (LLMs)
 
-![GitHub Repo stars](https://img.shields.io/github/stars/NiuTrans/ABigSurvey)
+<div align='center'>
+  <img src=https://img.shields.io/badge/LLMs_survey-blue.svg >
+  <img src=https://img.shields.io/badge/release-v1-orange.svg >
+  <img src=https://img.shields.io/github/stars/NiuTrans/ABigSurvey >
+</div>
 
 --------------------------------------------------------------------------------
 
@@ -8,7 +12,7 @@
 
 - We also survey hundreds of survey papers on Natural Language Processing and Machine Learning [[A Survey of Surveys (NLP & ML)](https://github.com/NiuTrans/ABigSurvey?tab=readme-ov-file#large-language-models)] ![GitHub Repo stars](https://img.shields.io/github/stars/NiuTrans/ABigSurvey)
 
-<details><summary>Updates</summary>
+<details><summary>🚀Updates</summary>
 
 | Version | Time | Content |
 | ------------------------ | ---------- | ------------------------------------------------------------ |
@@ -93,7 +97,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 | V1                       | 2023/03/31 | The initial version.                                         |
 </details> -->
 
-## The NLP Paper List
+## 📜 The LLMs Paper List
 
 #### [General](#content)
 
@@ -143,7 +147,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=HqWu-HITCS/Awesome-LLM-Survey&type=Date" />
   </picture>
 </a> -->
-## Star History
+## ⭐️ Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=NiuTrans/ABigSurvey&type=Date)](https://star-history.com/#NiuTrans/ABigSurvey&Date)
 
