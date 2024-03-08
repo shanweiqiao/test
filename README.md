@@ -97,17 +97,38 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 #### [General](#content)
 
-1. **A Survey of Large Language Models**. *Wayne Xin Zhao et al*. arXiv 2023. [[Paper](https://arxiv.org/abs/2303.18223)] [[GitHub](https://github.com/RUCAIBox/LLMSurvey)]
+1. **Instruction Tuning for Large Language Models: A Survey** arXiv (2023)
+
+   *Wayne Xin Zhao, Kun Zhou, Junyi Li, Tianyi Tang, Xiaolei Wang, Yupeng Hou, Yingqian Min, Beichen Zhang, Junjie Zhang, Zican Dong, Yifan Du, Chen Yang, Yushuo Chen, Zhipeng Chen, Jinhao Jiang, Ruiyang Ren, Yifan Li, Xinyu Tang, Zikang Liu, Peiyu Liu, Jian-Yun Nie, Ji-Rong Wen* [[Paper](https://arxiv.org/abs/2303.18223)] [[GitHub](https://github.com/RUCAIBox/LLMSurvey)]
+
+2. **A Survey of GPT-3 Family Large Language Models Including ChatGPT and GPT-4** arXiv (2023)
+
+   *Katikapalli Subramanyam Kalyan* [[Paper](https://arxiv.org/abs/2310.12321)]
+
+3. **Challenges and Applications of Large Language Models** arXiv (2023)
+
+   *Jean Kaddour, Joshua Harris, Maximilian Mozes, Herbie Bradley, Roberta Raileanu, Robert McHardy* [[Paper](https://arxiv.org/abs/2307.10169)]
+
+4. **Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond** arXiv (2023)
+
+   *Jingfeng Yang, Hongye Jin, Ruixiang Tang, Xiaotian Han, Qizhang Feng, Haoming Jiang, Bing Yin, Xia Hu* [[Paper](https://arxiv.org/abs/2304.13712)] [[GitHub](https://github.com/Mooler0410/LLMsPracticalGuide)]
+
 
 #### [Alignment](#content)
 
-1. **A Comprehensive Survey on Instruction Following**. *Renze Lou et al*. arXiv 2023. [[Paper](https://arxiv.org/abs/2303.10475)] [[GitHub](https://github.com/RenzeLou/awesome-instruction-learning)]
+<!-- 1. **A Comprehensive Survey on Instruction Following**. *Renze Lou et al*. arXiv 2023. [[Paper](https://arxiv.org/abs/2303.10475)] [[GitHub](https://github.com/RenzeLou/awesome-instruction-learning)]
 
-2. **Instruction Tuning for Large Language Models: A Survey**. *Shengyu Zhang et al*. arXiv 2023. [[Paper](https://arxiv.org/abs/2308.10792)] [[GitHub](https://github.com/RenzeLou/awesome-instruction-learning)]
+2. **Instruction Tuning for Large Language Models: A Survey**. *Shengyu Zhang et al*. arXiv 2023. [[Paper](https://arxiv.org/abs/2308.10792)] [[GitHub](https://github.com/RenzeLou/awesome-instruction-learning)] -->
 
-3. **Instruction Tuning for Large Language Models: A Survey** arXiv (2023)
+1. **Instruction Tuning for Large Language Models: A Survey** arXiv (2023)
+
+   *Renze Lou, Kai Zhang, Wenpeng Yin* [[Paper](https://arxiv.org/abs/2303.10475)] [[GitHub](https://github.com/RenzeLou/awesome-instruction-learning)]
+
+2. **Instruction Tuning for Large Language Models: A Survey** arXiv (2023)
 
    *Shengyu Zhang, Linfeng Dong, Xiaoya Li, Sen Zhang, Xiaofei Sun, Shuhe Wang, Jiwei Li, Runyi Hu, Tianwei Zhang, Fei Wu, Guoyin Wang* [[Paper](https://arxiv.org/abs/2308.10792)] [[GitHub](https://github.com/RenzeLou/awesome-instruction-learning)]
+
+
 
 
 <!-- >Feel free to let me know the missing papers (issue or pull request). -->
