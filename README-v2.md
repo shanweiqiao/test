@@ -44,28 +44,16 @@ We follow the concerning track and hot topic on **Large Language Modeling** rese
     + <a href="#lms-with-tools-and-code">LMs with Tools and Code</a>
     + <a href="#lms-on-diverse-modalities-and-novel-applications">LMs on Diverse Modalities and Novel Applications</a> -->
 + General
-+ ~~Alignment~~
++ ﻿Alignment
 	+ *fine-tuning, instruction-tuning, reinforcement learning (with human feedback), prompt tuning, and in-context alignment*
-+ <font color="#660000">Alignment</font><br />
-	+ Human alignment
-		+ *instruction-tuning, reinforcement learning (with human feedback)*
-	+ Format alignment
-		+ *fine-tuning, prompt tuning, and in-context alignment*
 + Data
 	+ *Time Series, pre-training data, alignment data, and synthetic data --- via manual or algorithmic analysis, curation, and generation*
 + Evaluation
 	+ *benchmarks, simulation environments, scalable oversight, evaluation protocols and metrics, human and/or machine evaluation*
 + Societal implications:
 	+ *bias, equity, misuse, jobs, climate change, and beyond*
-+ ~~Safety~~
-	+ ~~*Hallucinations, Detection, security, privacy, misinformation, adversarial attacks and defenses*~~
 + Safety
-	+ generation process
-		+ *Hallucinations*(alignment?)
-	+ data
-		+ *Detection, security, privacy, misinformation*
-	+ robustness
-		+ *adversarial attacks and defenses*
+	+ *Hallucinations, Detection, security, privacy, misinformation, adversarial attacks and defenses*
 + Science of LMs
 	+ *scaling laws, fundamental limitations, emergent capabilities, demystification, interpretability, complexity, training dynamics, grokking, learning theory for LMs*
 + Compute efficient LMs
@@ -75,40 +63,22 @@ We follow the concerning track and hot topic on **Large Language Modeling** rese
 + Learning algorithms for LMs
 	+ *learning, unlearning, meta learning, model mixing methods, continual learning*
 + Inference algorithms for LMs
-	+ *decoding algorithms, reasoning algorithms, search algorithms, planning algorithms,prompt, Human mind, brain, philosophy, laws and LMs, cognitive science, neuroscience, linguistics, psycholinguistics, philosophical, or legal perspectives on LMs*
-+ ~~LMs for everyone~~
-	+ ~~*multi-linguality, low-resource languages, vernacular languages, multiculturalism, value pluralism*~~
-+ <font color="#660000">LMs for NLP</font><br />
-	+ MT
-		+ *multi-linguality, low-resource languages and ...*
-	+ Multimodality
-		+ *visual LMs, video LMs*
-	+ other
-		+ *factuality, retrieval-augmented LMs, knowledge models, commonsense reasoning, theory of mind, social norms, pragmatics, and world models*
-+ ~~LMs and the world~~
-	+ ~~*factuality, retrieval-augmented LMs, knowledge models, commonsense reasoning, theory of mind, social norms, pragmatics, and world models*~~
-+ ~~LMs and embodiment~~
-	+ ~~*Autonomous Driving,perception, action, robotics, and multimodality*~~
-+ ~~LMs and interactions~~
-	+ ~~*conversation, interactive learning, and multi-agents learning*~~
-+ ~~LMs with tools and code~~
-	+ ~~*integration with tools and APIs, LM-driven software engineering*~~
-+ <font color="#660000">Extension of LMs</font><br />
-	+ LMs with tools
-		+ *integration with tools and APIs*
-	+ LMs and interactions
-		+ *conversation, interactive learning, and multi-agents learning, Autonomous Driving,perception, action, robotics*
-+ ~~LMs on diverse modalities and novel applications~~
-	+ ~~*Graph,Game,Data Annotation,Information Extraction,Environmental Disciplines,Text Watermarking,Citation,Information Retrieval,Recommendation,Law,Education,Finance,Physical and mental health, visual LMs, code LMs, math LMs, and so forth, with extra encouragements for less studied modalities or applications such as chemistry, medicine, education, database and beyond*~~
-+ <font color="#660000">LMs on novel applications</font><br />
-	+ Interdisciplinary field
-		+ *Text Watermarking, Citation,Recommendation and beyond*
-	+ CS field
-		+ *Data Annotation, Information Extraction, Information Retrieval, LM-driven software engineering, database and beyond*
-	+ diverse modalities
-		+ *math, chemistry, medicine, education, Environmental Disciplines, Law, Education, Finance, Physical, mental health, and so forth*
-	+ Other field
-		+ *Graph, Game*
+	+ *decoding algorithms, reasoning algorithms, search algorithms, planning algorithms,prompt*
+	+ *Human mind, brain, philosophy, laws and LMs*
+	+ *cognitive science, neuroscience, linguistics, psycholinguistics, philosophical, or legal perspectives on LMs*
++ LMs for everyone
+	+ *multi-linguality, low-resource languages, vernacular languages, multiculturalism, value pluralism*
++ LMs and the world
+	+ *factuality, retrieval-augmented LMs, knowledge models, commonsense reasoning, theory of mind, social norms, pragmatics, and world models*
++ LMs and embodiment
+	+ *Autonomous Driving,perception, action, robotics, and multimodality*
++ LMs and interactions
+	+ *conversation, interactive learning, and multi-agents learning*
++ LMs with tools and code
+	+ *integration with tools and APIs, LM-driven software engineering*
++ LMs on diverse modalities and novel applications
+	+ *Graph,Game,Data Annotation,Information Extraction,Environmental Disciplines,Text Watermarking,Citation,Information Retrieval,Recommendation,Law,Education,Finance,Physical and mental health, visual LMs, code LMs, math LMs, and so forth, with extra encouragements for less studied modalities or applications such as chemistry, medicine, education, database and beyond*
+
 
 
 
@@ -150,7 +120,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 ## 📜 The LLMs Paper List
 
-#### [Alignment](#content)
+#### [﻿Alignment](#content)
 
 1. **Are Prompts All the Story? No. A Comprehensive and Broader View of Instruction Learning** arXiv(2023.03)
 
@@ -194,11 +164,11 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 	*Zige Wang, Wanjun Zhong, Yufei Wang, Qi Zhu, Fei Mi, Baojun Wang, Lifeng Shang, Xin Jiang, Qun Liu* [[Paper](https://arxiv.org/pdf/2312.01700)] [[GitHub](https://github.com/ZigeW/data_management_LLM)]
 
-2. **A Survey on Data Selection for Language Models** arXiv(2024.02)
+2. **A Survey on Data Selection for Language Models, ** arXiv(2024.02)
 
 	*Alon Albalak, Yanai Elazar, Sang Michael Xie, Shayne Longpre, Nathan Lambert, Xinyi Wang, Niklas Muennighoff, Bairu Hou, Liangming Pan, Haewon Jeong, Colin Raffel, Shiyu Chang, Tatsunori Hashimoto, William Yang Wang* [[Paper](https://arxiv.org/pdf/2402.16827.pdf)]
 
-3. **Datasets for Large Language Models: A Comprehensive Survey** arXiv(2024.02)
+3. **Datasets for Large Language Models: A Comprehensive Survey,** arXiv(2024.02)
 
 	*Yang Liu, Jiahuan Cao, Chongyu Liu, Kai Ding, Lianwen Jin* [[Paper](https://arxiv.org/pdf/2402.18041.pdf)] [[GitHub](https://github.com/lmmlzn/Awesome-LLMs-Datasets)]
 
@@ -244,11 +214,11 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 #### [Safety](#content)
 
-1. **Can Knowledge Graphs Reduce Hallucinations in LLMs? : A Survey** arXiv(2023.11)
+1. **Can Knowledge Graphs Reduce Hallucinations in LLMs? : A Survey, ** arXiv(2023.11)
 
 	*Garima Agrawal Tharindu Kumarage Zeyad Alghami Huan Liu* [[Paper](https://arxiv.org/pdf/2311.07914)]
 
-2. **A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions** arXiv(2023.11)
+2. **A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions, ** arXiv(2023.11)
 
 	*Lei Huang, Weijiang Yu, Weitao Ma, Weihong Zhong, Zhangyin Feng, Haotian Wang, Qianglong Chen, Weihua Peng, Xiaocheng Feng, Bing Qin, Ting Liu* [[Paper](https://arxiv.org/pdf/2311.05232)] [[GitHub](https://github.com/LuckyyySTA/Awesome-LLM-hallucination)]
 
@@ -272,7 +242,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 	*S.M Towhidul Islam Tonmoy, S M Mehedi Zaman, Vinija Jain, Anku Rani, Vipula Rawte, Aman Chadha, Amitava Das* [[Paper](https://arxiv.org/pdf/2401.01313.pdf)]
 
-8. **Trustworthy LLMs: a Survey and Guideline for Evaluating Large Language Models' Alignment** arXiv(2023.08)
+8. **Trustworthy LLMs: a Survey and Guideline for Evaluating Large Language Models' Alignment,** arXiv(2023.08)
 
 	*Yang Liu, Yuanshun Yao, Jean-Francois Ton, Xiaoying Zhang, Ruocheng Guo, Hao Cheng, Yegor Klochkov, Muhammad Faaiz Taufiq, Hang Li* [[Paper](https://arxiv.org/abs/2308.05374)]
 
@@ -454,11 +424,11 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 	*Song Wang, Yaochen Zhu, Haochen Liu, Zaiyi Zheng, Chen Chen, Jundong Li* [[Paper](https://arxiv.org/pdf/2310.16218.pdf)]
 
-5. **Editing Large Language Models: Problems, Methods, and Opportunities** arXiv(2023.05)
+5. **Editing Large Language Models: Problems, Methods, and Opportunities,** arXiv(2023.05)
 
 	*Yunzhi Yao, Peng Wang, Bozhong Tian, Siyuan Cheng, Zhoubo Li, Shumin Deng, Huajun Chen, Ningyu Zhang* [[Paper](https://arxiv.org/abs/2305.13172)]
 
-6. **Building trust in conversational ai: A comprehensive review and solution architecture for explainable, privacy-aware systems using llms and knowledge graph** arXiv(2023.08)
+6. **Building trust in conversational ai: A comprehensive review and solution architecture for explainable, privacy-aware systems using llms and knowledge graph, ** arXiv(2023.08)
 
 	*Ahtsham Zafar, Venkatesh Balavadhani Parthasarathy, Chan Le Van, Saad Shahid, Aafaq Iqbal khan, Arsalan Shahid* [[Paper](https://arxiv.org/pdf/2308.13534.pdf)]
 
@@ -490,7 +460,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 	*Liangming Pan, Michael Saxon, Wenda Xu, Deepak Nathani, Xinyi Wang, William Yang Wang* [[Paper](https://arxiv.org/abs/2308.03188)] [[GitHub](https://github.com/teacherpeterpan/self-correction-llm-papers)]
 
-2. **A Survey on Large Language Model based Autonomous Agents** arXiv( 2023.08)
+2. **A Survey on Large Language Model based Autonomous Agents,** arXiv( 2023.08)
 
 	*Lei Wang, Chen Ma, Xueyang Feng, Zeyu Zhang, Hao Yang, Jingsen Zhang, Zhiyuan Chen, Jiakai Tang, Xu Chen, Yankai Lin, Wayne Xin Zhao, Zhewei Wei, Ji-Rong Wen* [[Paper](https://arxiv.org/abs/2308.11432)] [[GitHub](https://github.com/Paitesanshi/LLM-Agent-Survey)]
 
@@ -498,11 +468,11 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 	*Zhiheng Xi, Wenxiang Chen, Xin Guo, Wei He, Yiwen Ding, Boyang Hong, Ming Zhang, Junzhe Wang, Senjie Jin, Enyu Zhou, Rui Zheng, Xiaoran Fan, Xiao Wang, Limao Xiong, Yuhao Zhou, Weiran Wang, Changhao Jiang, Yicheng Zou, Xiangyang Liu, Zhangyue Yin, Shihan Dou, Rongxiang Weng, Wensen Cheng, Qi Zhang, Wenjuan Qin, Yongyan Zheng, Xipeng Qiu, Xuanjing Huang, Tao Gui* [[Paper](https://arxiv.org/abs/2309.07864)] [[GitHub](https://github.com/WooooDyy/LLM-Agent-Paper-List)]
 
-4. **Large Language Models Empowered Agent-based Modeling and Simulation: A Survey and Perspectives** arXiv(2023.12 )
+4. **Large Language Models Empowered Agent-based Modeling and Simulation: A Survey and Perspectives, ** arXiv(2023.12 )
 
 	*Chen Gao, Xiaochong Lan, Nian Li, Yuan Yuan, Jingtao Ding, Zhilun Zhou, Fengli Xu, Yong Li* [[Paper](https://arxiv.org/pdf/2312.11970.pdf)]
 
-5. **Large Multimodal Agents: A Survey** arXiv(2024.02)
+5. **Large Multimodal Agents: A Survey, ** arXiv(2024.02)
 
 	*Junlin Xie, Zhihong Chen, Ruifei Zhang, Xiang Wan, Guanbin Li* [[Paper](https://arxiv.org/pdf/2402.15116)] [[GitHub](https://github.com/jun0wanan/awesome-large-multimodal-agents)]
 
@@ -743,8 +713,6 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 9. **The future of gpt: A taxonomy of existing chatgpt research, current challenges, and possible future directions** SSRN(2023.04)
 
 	*Shahab Saquib Sohaila, Faiza Farhatb, Yassine Himeurc, Mohammad Nadeemd, Dag Oivind Madsene, Yashbir Singhf, Shadi Atallac and Wathiq Mansoorc* [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4413921)]
-
-
 
 
 
