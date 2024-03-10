@@ -44,8 +44,6 @@ We follow the concerning track and hot topic on **Large Language Modeling** rese
     + <a href="#lms-with-tools-and-code">LMs with Tools and Code</a>
     + <a href="#lms-on-diverse-modalities-and-novel-applications">LMs on Diverse Modalities and Novel Applications</a> -->
 + General
-+ ~~Alignment~~
-	+ ~~*fine-tuning, instruction-tuning, reinforcement learning (with human feedback), prompt tuning, and in-context alignment*~~
 + <font color="#660000">Alignment</font><br />
 	+ Human alignment
 		+ *instruction-tuning, reinforcement learning (with human feedback)*
@@ -57,8 +55,6 @@ We follow the concerning track and hot topic on **Large Language Modeling** rese
 	+ *benchmarks, simulation environments, scalable oversight, evaluation protocols and metrics, human and/or machine evaluation*
 + Societal implications:
 	+ *bias, equity, misuse, jobs, climate change, and beyond*
-+ ~~Safety~~
-	+ ~~*Hallucinations, Detection, security, privacy, misinformation, adversarial attacks and defenses*~~
 + Safety
 	+ generation process
 		+ *Hallucinations*(alignment?)
@@ -76,8 +72,6 @@ We follow the concerning track and hot topic on **Large Language Modeling** rese
 	+ *learning, unlearning, meta learning, model mixing methods, continual learning*
 + Inference algorithms for LMs
 	+ *decoding algorithms, reasoning algorithms, search algorithms, planning algorithms,prompt, Human mind, brain, philosophy, laws and LMs, cognitive science, neuroscience, linguistics, psycholinguistics, philosophical, or legal perspectives on LMs*
-+ ~~LMs for everyone~~
-	+ ~~*multi-linguality, low-resource languages, vernacular languages, multiculturalism, value pluralism*~~
 + <font color="#660000">LMs for NLP</font><br />
 	+ MT
 		+ *multi-linguality, low-resource languages and ...*
@@ -85,21 +79,11 @@ We follow the concerning track and hot topic on **Large Language Modeling** rese
 		+ *visual LMs, video LMs*
 	+ other
 		+ *factuality, retrieval-augmented LMs, knowledge models, commonsense reasoning, theory of mind, social norms, pragmatics, and world models*
-+ ~~LMs and the world~~
-	+ ~~*factuality, retrieval-augmented LMs, knowledge models, commonsense reasoning, theory of mind, social norms, pragmatics, and world models*~~
-+ ~~LMs and embodiment~~
-	+ ~~*Autonomous Driving,perception, action, robotics, and multimodality*~~
-+ ~~LMs and interactions~~
-	+ ~~*conversation, interactive learning, and multi-agents learning*~~
-+ ~~LMs with tools and code~~
-	+ ~~*integration with tools and APIs, LM-driven software engineering*~~
 + <font color="#660000">Extension of LMs</font><br />
 	+ LMs with tools
 		+ *integration with tools and APIs*
 	+ LMs and interactions
 		+ *conversation, interactive learning, and multi-agents learning, Autonomous Driving,perception, action, robotics*
-+ ~~LMs on diverse modalities and novel applications~~
-	+ ~~*Graph,Game,Data Annotation,Information Extraction,Environmental Disciplines,Text Watermarking,Citation,Information Retrieval,Recommendation,Law,Education,Finance,Physical and mental health, visual LMs, code LMs, math LMs, and so forth, with extra encouragements for less studied modalities or applications such as chemistry, medicine, education, database and beyond*~~
 + <font color="#660000">LMs on novel applications</font><br />
 	+ Interdisciplinary field
 		+ *Text Watermarking, Citation,Recommendation and beyond*
@@ -109,9 +93,6 @@ We follow the concerning track and hot topic on **Large Language Modeling** rese
 		+ *math, chemistry, medicine, education, Environmental Disciplines, Law, Education, Finance, Physical, mental health, and so forth*
 	+ Other field
 		+ *Graph, Game*
-
-
-
 
 
 <!-- To reduce class imbalance, we separate some of the hot sub-topics from the original categorization of ACL and ICML submissions. E.g., Named Entity Recognition is a first-level area in our categorization because it is the focus of several surveys. -->
