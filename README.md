@@ -64,37 +64,37 @@ We follow the concerning track and hot topic on **Large Language Modeling** rese
 + [Misinformation](#section7)
 	 + Hallucinations
 	 + Factuality
-+ [4](#section8)
-+ [Attributes of LMs](#section9)
++ [Attributes of LMs](#section8)
 	+ *scaling laws, fundamental limitations, emergent capabilities, demystification, interpretability, complexity, training dynamics, grokking and learning theory for LMs*
-+ [Efficient LMs](#section10)
++ [Efficient LMs](#section9)
 	+ Compute efficient
 		+ *distillation, compression, quantization, sample efficient methods and memory efficient methods*
 	+ System
 		+ *distributed training and inference on different hardware setups, training dynamics and optimization instability*
-+ [Learning Methods for LMs](#section11)
++ [Learning Methods for LMs](#section10)
 	+ *learning, unlearning, meta learning, model mixing methods and continual learning*
-+ [Inference Methods for LMs](#section12)
++ [Inference Methods for LMs](#section11)
 	+ *decoding algorithms, reasoning algorithms, search algorithms, planning algorithms and prompt*
-+ [Multi-linguality LMs](#section13)
-+ [Multimodality LMs](#section14)
++ [Multi-linguality LMs](#section12)
++ [Multimodality LMs](#section13)
 	+ *visual LMs, video LMs and time series LMs*
-+ [Knowledge of LMs](#section15)
++ [Knowledge of LMs](#section14)
 	+ Retrieval-augmented
 	+ Knowledge editing
-+ [Extension of LMs](#section16)
++ [Extension of LMs](#section15)
 	+ LMs with tools
 		+ *integration with tools and APIs*
 	+ LMs and interactions
 		+ *conversation, interactive learning, and multi-agents learning, autonomous driving, perception, action and robotics*
-+ [Long Sequence Generation of LMs](#section17)
-+ [LMs Applications](#section18)
++ [Long Sequence Generation of LMs](#section16)
++ [LMs Applications](#section17)
 	+ Interdisciplinary field
 		+ *math, chemistry, medicine, education, environmental disciplines, law, education, finance, physical, mental health, text watermarking, citation, recommendation and beyond*
 	+ CS field
 		+ *information extraction, information retrieval, LM-driven software engineering, database and beyond*
 	+ Other field
 		+ *Graph, Game*
+
 
 
 
@@ -368,9 +368,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 	*Paul Youssef, Osman Alperen Koraş, Meijie Li, Jörg Schlötterer, Christin Seifert* [[Paper](https://arxiv.org/pdf/2310.16570.pdf)]
 
-#### 4<a id="section8"></a>
-
-#### Attributes of LMs<a id="section9"></a>
+#### Attributes of LMs<a id="section8"></a>
 
 1. **Explainability for Large Language Models: A Survey** arXiv(2023.09)
 
@@ -400,7 +398,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 	*Mengnan Du, Fengxiang He, Na Zou, Dacheng Tao, Xia Hu* [[Paper](https://dl.acm.org/doi/10.1145/3596490)]
 
-#### Efficient LMs<a id="section10"></a>
+#### Efficient LMs<a id="section9"></a>
 
 1. **Efficient Large Language Models: A Survey** arXiv(2023.12)
 
@@ -442,7 +440,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 	*Christoforos Kachris* [[Paper](https://arxiv.org/pdf/2401.09890.pdf)]
 
-#### Learning Methods for LMs<a id="section11"></a>
+#### Learning Methods for LMs<a id="section10"></a>
 
 1. **Knowledge Unlearning for LLMs: Tasks, Methods, and Challenges** arXiv(2023.11)
 
@@ -456,15 +454,15 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 	*Tongtong Wu, Linhao Luo, Yuan-Fang Li, Shirui Pan, Thuy-Trang Vu, Gholamreza Haffari* [[Paper](https://arxiv.org/abs/2402.01364)]
 
-#### Inference Methods for LMs<a id="section12"></a>
+#### Inference Methods for LMs<a id="section11"></a>
 
 1. **Unlocking Efficiency in Large Language Model Inference: A Comprehensive Survey of Speculative Decoding** arXiv()
 
 	** [[Paper](https://arxiv.org/abs/2401.07851)] [[GitHub](https://github.com/hemingkx/SpeculativeDecodingPapers)]
 
-#### Multi-linguality LMs<a id="section13"></a>
+#### Multi-linguality LMs<a id="section12"></a>
 
-#### Multimodality LMs<a id="section14"></a>
+#### Multimodality LMs<a id="section13"></a>
 
 1. **Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook** arXiv(2023.10)
 
@@ -502,7 +500,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 	*Siddique Latif, Moazzam Shoukat, Fahad Shamshad, Muhammad Usama, Yi Ren, Heriberto Cuayáhuitl, Wenwu Wang, Xulong Zhang, Roberto Togneri, Erik Cambria, Björn W. Schuller* [[Paper](https://arxiv.org/pdf/2308.12792.pdf)] [[GitHub](https://github.com/EmulationAI/awesome-large-audio-models)]
 
-#### Knowledge of LMs<a id="section15"></a>
+#### Knowledge of LMs<a id="section14"></a>
 
 1. **Building trust in conversational ai: A comprehensive review and solution architecture for explainable, privacy-aware systems using llms and knowledge graph** arXiv(2023.08)
 
@@ -536,7 +534,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 	*Yunzhi Yao, Peng Wang, Bozhong Tian, Siyuan Cheng, Zhoubo Li, Shumin Deng, Huajun Chen, Ningyu Zhang* [[Paper](https://arxiv.org/abs/2305.13172)]
 
-#### Extension of LMs<a id="section16"></a>
+#### Extension of LMs<a id="section15"></a>
 
 1. **Foundation Models for Decision Making: Problems, Methods, and Opportunities** arXiv(2023.03)
 
@@ -598,7 +596,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 	*Junlin Xie, Zhihong Chen, Ruifei Zhang, Xiang Wan, Guanbin Li* [[Paper](https://arxiv.org/pdf/2402.15116)] [[GitHub](https://github.com/jun0wanan/awesome-large-multimodal-agents)]
 
-#### Long Sequence Generation of LMs<a id="section17"></a>
+#### Long Sequence Generation of LMs<a id="section16"></a>
 
 1. **Advancing Transformer Architecture in Long-Context Large Language Models: A Comprehensive Survey** arXiv(2023.11)
 
@@ -608,7 +606,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 	*Liang Zhao, Xiaocheng Feng, Xiachong Feng, Bing Qin, Ting Liu* [[Paper](https://arxiv.org/abs/2312.17044)]
 
-#### LMs Applications<a id="section18"></a>
+#### LMs Applications<a id="section17"></a>
 
 1. **A Survey of Large Language Models in Medicine: Progress, Application, and Challenge** arXiv(2023.11)
 
@@ -741,14 +739,6 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 33. **Large Language Models and Games: A Survey and Roadmap** arXiv(2024.02)
 
 	*Roberto Gallotta, Graham Todd, Marvin Zammit, Sam Earle, Antonios Liapis, Julian Togelius, Georgios N. Yannakakis* [[Paper](https://arxiv.org/abs/2402.18659)]
-
-
-
-
-
-
-
-
 
 
 
