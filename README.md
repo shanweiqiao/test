@@ -75,7 +75,6 @@ We follow the concerning track and hot topic on **Large Language Modeling** rese
 	+ *learning, unlearning, meta learning, model mixing methods and continual learning*
 + [Inference Methods for LMs](#section11)
 	+ *decoding algorithms, reasoning algorithms, search algorithms, planning algorithms and prompt*
-+ [Multi-linguality LMs](#section12)
 + [Multimodality LMs](#section13)
 	+ *visual LMs, video LMs and time series LMs*
 + [Knowledge of LMs](#section14)
@@ -459,8 +458,6 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 1. **Unlocking Efficiency in Large Language Model Inference: A Comprehensive Survey of Speculative Decoding** arXiv()
 
 	** [[Paper](https://arxiv.org/abs/2401.07851)] [[GitHub](https://github.com/hemingkx/SpeculativeDecodingPapers)]
-
-#### Multi-linguality LMs<a id="section12"></a>
 
 #### Multimodality LMs<a id="section13"></a>
 
