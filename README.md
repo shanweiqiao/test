@@ -83,7 +83,7 @@ We follow the concerning track and hot topic on **Large Language Modeling** rese
 + [﻿General](#section1)
 + [Alignment](#section2)
 	+ [Human alignment](#section3)
-		+ *instruction-tuning and reinforcement learning with human feedback*
+		+ *instruction-tuning and reinforcement learning (with human feedback)*
 	+ [Prompt engineering](#section4)
 		+ *prompt tuning and chain of thought*
 + [Data](#section5)
@@ -126,6 +126,7 @@ We follow the concerning track and hot topic on **Large Language Modeling** rese
 		+ *information extraction, information retrieval, LM-driven software engineering, database and beyond*
 	+ [Other field](#section30)
 		+ *Graph, Game*
+
 
 
 
@@ -213,11 +214,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 	*Jiankai Sun, Chuanyang Zheng, Enze Xie, Zhengying Liu, Ruihang Chu, Jianing Qiu, Jiaqi Xu, Mingyu Ding, Hongyang Li, Mengzhe Geng, Yue Wu, Wenhai Wang, Junsong Chen, Zhangyue Yin, Xiaozhe Ren, Jie Fu, Junxian He, Wu Yuan, Qi Liu, Xihui Liu, Yu Li, Hao Dong, Yu Cheng, Ming Zhang, Pheng Ann Heng, Jifeng Dai, Ping Luo, Jingdong Wang, Ji-Rong Wen, Xipeng Qiu, Yike Guo, Hui Xiong, Qun Liu, Zhenguo Li* [[Paper](https://arxiv.org/pdf/2312.11562.pdf)] [[GitHub](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models)]
 
-12. **Pretrained language models for text generation: A survey		** arXiv ()
-
-	*Junyi Li, Tianyi Tang, Wayne Xin Zhao, Jian-Yun Nie, Ji-Rong Wen* [[Paper](https://arxiv.org/abs/2201.05273)]
-
-13. **Science in the age of large language models** arXiv (2023.04)
+12. **Science in the age of large language models** arXiv (2023.04)
 
 	*Abeba Birhane* [[Paper](https://www.nature.com/articles/s42254-023-00581-4)]
 
@@ -339,7 +336,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 3. **Perception, performance, and detectability of conversational artificial intelligence across 32 university courses** SCI REP-UK (2023.08)
 
-	*Hazem Ibrahim, Fengyuan Liu, Rohail Asim, Balaraju Battu, Sidahmed Benabderrahmane, Bashar Alhafni, Wifag Adnan, Tuka Alhanai, Bedoor AlShebli, Riyadh Baghdadi, Jocelyn J. Bélanger, Elena Beretta, Kemal Celik, Moumena Chaqfeh, Mohammed F. Daqaq, Zaynab El Bernoussi, Daryl Fougnie, Borja Garcia de Soto, Alberto Gandolfi, Andras Gyorgy, Nizar Habash, J. Andrew Harris, Aaron Kaufman, Lefteris Kirousis, Korhan Kocak, Kangsan Lee, Seungah S. Lee, Samreen Malik, Michail Maniatakos, David Melcher, Azzam Mourad, Minsu Park, Mahmoud Rasras, Alicja Reuben, Dania Zantout, Nancy W. Gleason, Kinga Makovi, Talal Rahwan, Yasir Zaki * [[Paper](https://www.nature.com/articles/s41598-023-38964-3)]
+	*Hazem Ibrahim, Fengyuan Liu, Rohail Asim, Balaraju Battu, Sidahmed Benabderrahmane, Bashar Alhafni, Wifag Adnan, Tuka Alhanai, Bedoor AlShebli, Riyadh Baghdadi, Jocelyn J. Bélanger, Elena Beretta, Kemal Celik, Moumena Chaqfeh, Mohammed F. Daqaq, Zaynab El Bernoussi, Daryl Fougnie, Borja Garcia de Soto, Alberto Gandolfi, Andras Gyorgy, Nizar Habash, J. Andrew Harris, Aaron Kaufman, Lefteris Kirousis, Korhan Kocak, Kangsan Lee, Seungah S. Lee, Samreen Malik, Michail Maniatakos, David Melcher, Azzam Mourad, Minsu Park, Mahmoud Rasras, Alicja Reuben, Dania Zantout, Nancy W. Gleason, Kinga Makovi, Talal Rahwan, Yasir Zaki* [[Paper](https://www.nature.com/articles/s41598-023-38964-3)]
 
 4. **Should chatgpt be biased? challenges and risks of bias in large language models** arXiv (2023.04)
 
@@ -805,31 +802,27 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 	*Zhongxiang Sun* [[Paper](https://arxiv.org/abs/2303.09136)]
 
-26. **Systematic Review of Large Language Models for Patient Care: Current Applications and Challenges** arXiv ()
-
-	** [[Paper](https://www.medrxiv.org/content/medrxiv/early/2024/03/05/2024.03.04.24303733.full.pdf)]
-
-27. **A Survey of Large Language Models for Healthcare: from Data, Technology, and Applications to Accountability and Ethics** arXiv (2023.10)
+26. **A Survey of Large Language Models for Healthcare: from Data, Technology, and Applications to Accountability and Ethics** arXiv (2023.10)
 
 	*Kai He, Rui Mao, Qika Lin, Yucheng Ruan, Xiang Lan, Mengling Feng, Erik Cambria* [[Paper](https://arxiv.org/abs/2310.05694)] [[GitHub](https://github.com/KaiHe-better/LLM-for-Healthcare)]
 
-28. **ChatGPT for good? On opportunities and challenges of large language models for education** arXiv (2023.04)
+27. **ChatGPT for good? On opportunities and challenges of large language models for education** arXiv (2023.04)
 
-	*Enkelejda Kasneci , Kathrin Sessler , Stefan Küchemann , Maria Bannert , Daryna Dementieva , Frank Fischer , Urs Gasser , Georg Groh , Stephan Günnemann  Eyke Hüllermeier , Stephan Krusche , Gitta Kutyniok , Tilman Michaeli , Claudia Nerdel , Jürgen Pfeffer , Oleksandra Poquet , Michael Sailer , Albrecht Schmidt , Tina Seidel , Matthias Stadler …Gjergji Kasneci * [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1041608023000195)]
+	*Enkelejda Kasneci , Kathrin Sessler , Stefan Küchemann , Maria Bannert , Daryna Dementieva , Frank Fischer , Urs Gasser , Georg Groh , Stephan Günnemann  Eyke Hüllermeier , Stephan Krusche , Gitta Kutyniok , Tilman Michaeli , Claudia Nerdel , Jürgen Pfeffer , Oleksandra Poquet , Michael Sailer , Albrecht Schmidt , Tina Seidel , Matthias Stadler …Gjergji Kasneci* [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1041608023000195)]
 
-29. **ChatGPT and large language models in academia: opportunities and challenges** arXiv (2023.07)
+28. **ChatGPT and large language models in academia: opportunities and challenges** arXiv (2023.07)
 
 	*Jesse G. Meyer* [[Paper](https://link.springer.com/article/10.1186/s13040-023-00339-9)]
 
-30. **Role play with large language models** arXiv (2023.11)
+29. **Role play with large language models** arXiv (2023.11)
 
-	*Murray Shanahan, Kyle McDonell & Laria Reynolds * [[Paper](https://www.nature.com/articles/s41586-023-06647-8)]
+	*Murray Shanahan, Kyle McDonell & Laria Reynolds* [[Paper](https://www.nature.com/articles/s41586-023-06647-8)]
 
-31. **The imperative for regulatory oversight of large language models (or generative AI) in healthcare** arXiv (2023.07)
+30. **The imperative for regulatory oversight of large language models (or generative AI) in healthcare** arXiv (2023.07)
 
-	*Bertalan Meskó & Eric J. Topol * [[Paper](https://www.nature.com/articles/s41746-023-00873-0)]
+	*Bertalan Meskó & Eric J. Topol* [[Paper](https://www.nature.com/articles/s41746-023-00873-0)]
 
-32. **The utility of ChatGPT as an example of large language models in healthcare education, research and practice: Systematic review on the future perspectives and** arXiv (2023.12)
+31. **The utility of ChatGPT as an example of large language models in healthcare education, research and practice: Systematic review on the future perspectives and** arXiv (2023.12)
 
 	*Malik Sallam* [[Paper](https://www.medrxiv.org/content/10.1101/2023.02.19.23286155v1)]
 
@@ -880,6 +873,8 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 4. **Large Language Models and Video Games: A Preliminary Scoping Review** arXiv (2024.03)
 
 	*Penny Sweetser* [[Paper](https://arxiv.org/abs/2403.02613)]
+
+
 
 
 
