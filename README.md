@@ -83,7 +83,7 @@ We follow the concerning track and hot topic on **Large Language Modeling** rese
 + [﻿General](#section1)
 + [Alignment](#section2)
 	+ [Human alignment](#section3)
-		+ *instruction-tuning and reinforcement learning (with human feedback)*
+		+ *instruction-tuning and reinforcement learning with human feedback*
 	+ [Prompt engineering](#section4)
 		+ *prompt tuning and chain of thought*
 + [Data](#section5)
@@ -126,6 +126,7 @@ We follow the concerning track and hot topic on **Large Language Modeling** rese
 		+ *information extraction, information retrieval, LM-driven software engineering, database and beyond*
 	+ [Other field](#section30)
 		+ *Graph, Game*
+
 
 
 
@@ -879,6 +880,8 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 4. **Large Language Models and Video Games: A Preliminary Scoping Review** arXiv (2024.03)
 
 	*Penny Sweetser* [[Paper](https://arxiv.org/abs/2403.02613)]
+
+
 
 
 
