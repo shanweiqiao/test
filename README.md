@@ -83,11 +83,11 @@ We follow the concerning track and hot topic on **Large Language Modeling** rese
 + [﻿General](#section1)
 + [Alignment](#section2)
 	+ [Human alignment](#section3)
-		+ *instruction-tuning and reinforcement learning (with human feedback)*
+		+ *instruction-tuning and reinforcement learning with human feedback*
 	+ [Prompt engineering](#section4)
 		+ *prompt tuning and chain of thought*
 + [Data](#section5)
-	+ *pre-training data, alignment data, and synthetic data --- via manual or algorithmic analysis, curation, and generation*
+	+ *pre-training data, alignment data, and synthetic data (manual or algorithmic analysis, curation, and generation)*
 + [Evaluation](#section6)
 	+ *benchmarks, simulation environments, scalable oversight, evaluation protocols and metrics, human and/or machine evaluation*
 + [Societal Issues](#section7)
