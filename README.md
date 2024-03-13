@@ -43,7 +43,7 @@ We follow the concerning track and hot topic on **Large Language Modeling** rese
     + <a href="#lms-and-interactions">LMs and Interactions</a>
     + <a href="#lms-with-tools-and-code">LMs with Tools and Code</a>
     + <a href="#lms-on-diverse-modalities-and-novel-applications">LMs on Diverse Modalities and Novel Applications</a> -->
-- [A Survey of Surveys (LLMs)](#a-survey-of-surveys-llms)
+<!-- - [A Survey of Surveys (LLMs)](#a-survey-of-surveys-llms)
 	- [Categorization](#categorization)
 	- [📜 The LLMs Paper List](#-the-llms-paper-list)
 			- [﻿General](#general)
@@ -78,7 +78,54 @@ We follow the concerning track and hot topic on **Large Language Modeling** rese
 					- [Other field](#other-field)
 	- [⭐️ Star History](#️-star-history)
 	- [Team Members](#team-members)
-	- [Acknowledge](#acknowledge)
+	- [Acknowledge](#acknowledge) -->
+
++ [﻿General](#section1)
++ [Alignment](#section2)
+	+ [Human alignment](#section3)
+		+ *instruction-tuning and reinforcement learning (with human feedback)*
+	+ [Prompt engineering](#section4)
+		+ *prompt tuning and chain of thought*
++ [Data](#section5)
+	+ *pre-training data, alignment data, and synthetic data --- via manual or algorithmic analysis, curation, and generation*
++ [Evaluation](#section6)
+	+ *benchmarks, simulation environments, scalable oversight, evaluation protocols and metrics, human and/or machine evaluation*
++ [Societal Issues](#section7)
+	+ *bias, equity, misuse, jobs, climate change, and beyond*
++ [Safety](#section8)
+	+ [Detection](#section9)
+	+ [Security](#section10)
+		+ *adversarial attacks and privacy*
++ [Misinformation](#section11)
+	+ [Hallucinations](#section12)
+	+ [Factuality](#section13)
++ [Attributes of LMs](#section14)
+	+ *scaling laws, fundamental limitations, emergent capabilities, demystification, interpretability, complexity, training dynamics, grokking and learning theory for LMs*
++ [Efficient LMs](#section15)
+	+ [Compute efficient](#section16)
+		+ *distillation, compression, quantization, sample efficient methods and memory efficient methods*
+	+ [System](#section17)
+		+ *distributed training and inference on different hardware setups, training dynamics and optimization instability*
++ [Learning Methods for LMs](#section18)
+	+ *learning, unlearning, meta learning, model mixing methods and continual learning*
++ [Multimodality LMs](#section19)
+	+ *visual LMs, video LMs and time series LMs*
++ [Knowledge of LMs](#section20)
+	+ [Retrieval-augmented](#section21)
+	+ [Knowledge editing](#section22)
++ [Extension of LMs](#section23)
+	+ [LMs with tools](#section24)
+		+ *integration with tools and APIs*
+	+ [LMs and interactions](#section25)
+		+ *conversation, interactive learning, and multi-agents learning, autonomous driving, perception, action and robotics*
++ [Long Sequence Generation of LMs](#section26)
++ [LMs Applications](#section27)
+	+ [Interdisciplinary field](#section28)
+		+ *math, chemistry, medicine, education, environmental disciplines, law, education, finance, physical, mental health, text watermarking, citation, recommendation and beyond*
+	+ [CS field](#section29)
+		+ *information extraction, information retrieval, LM-driven software engineering, database and beyond*
+	+ [Other field](#section30)
+		+ *Graph, Game*
 
 
 
@@ -832,6 +879,8 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 4. **Large Language Models and Video Games: A Preliminary Scoping Review** arXiv (2024.03)
 
 	*Penny Sweetser* [[Paper](https://arxiv.org/abs/2403.02613)]
+
+
 
 
 
