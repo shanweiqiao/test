@@ -82,42 +82,39 @@ We follow the concerning track and hot topic on **Large Language Modeling** rese
 
 + [General Survey](#section1)
 + [Alignment](#section2)
-+ [In-context Learning of LLMs](#section4)
-	+ [Prompt Learning](#section5)
-	+ [Chain of Thought](#section6)
-+ [Data](#section7)
-+ [Evaluation](#section8)
-+ [Societal Issues](#section9)
-+ [Safety](#section10)
-	+ [LLMs-Generated Detection](#section11)
-	+ [Security](#section12)
-+ [Misinformation](#section13)
-	+ [Hallucinations](#section14)
-	+ [Factuality](#section15)
-+ [Attributes of LLMs](#section16)
-+ [Efficient LLMs](#section17)
-+ [Learning Methods for LLMs](#section19)
-+ [Multimodality LLMs](#section20)
-	+ [Vision LLMs](#section21)
-	+ [Other](#section22)
-+ [Knowledge based LLMs](#section23)
-	+ [Retrieval-Augmented](#section24)
-	+ [Knowledge Editing](#section25)
-+ [Extension of LLMs](#section26)
-	+ [LLMs with Tools](#section27)
-	+ [LLMs And Interactions](#section28)
-+ [Long Sequence LLMs](#section29)
-+ [LLMs Applications](#section30)
-	+ [Education](#section31)
-	+ [Law](#section32)
-	+ [Health](#section33)
-	+ [Finance](#section34)
-	+ [Game](#section35)
-	+ [NLP Task](#section36)
-	+ [Software Engineering](#section37)
-	+ [Recommender System](#section38)
-	+ [Other](#section39)
-
++ [In-context Learning](#section3)
+	+ [Prompt Learning](#section4)
+	+ [Chain of Thought](#section5)
++ [Data](#section6)
++ [Evaluation](#section7)
++ [Societal Issues](#section8)
++ [Safety](#section9)
+	+ [Source Detection](#section10)
+	+ [Security](#section11)
++ [Misinformation](#section12)
+	+ [Hallucinations](#section13)
+	+ [Factuality](#section14)
++ [Attributes of LLMs](#section15)
++ [Efficient LLMs](#section16)
++ [Learning Methods for LLMs](#section17)
++ [Multimodality LLMs](#section18)
++ [Knowledge based LLMs](#section19)
+	+ [Retrieval-Augmented](#section20)
+	+ [Knowledge Editing](#section21)
++ [Extension of LLMs](#section22)
+	+ [LLMs with Tools](#section23)
+	+ [LLMs and Interactions](#section24)
++ [Long Sequence LLMs](#section25)
++ [LLMs Applications](#section26)
+	+ [Education](#section27)
+	+ [Law](#section28)
+	+ [Health](#section29)
+	+ [Finance](#section30)
+	+ [Game](#section31)
+	+ [NLP Task](#section32)
+	+ [Software Engineering](#section33)
+	+ [Recommender System](#section34)
+	+ [Other](#section35)
 
 
 
@@ -157,7 +154,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 ## 📜 The LLMs Paper List
 
-#### General Survey<a id="section1"></a>
+#### ﻿General Survey<a id="section1"></a>
 
 1. **Large Language Models: A Survey** arXiv (2024.02)
 
@@ -225,9 +222,9 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 	*Shengyu Zhang, Linfeng Dong, Xiaoya Li, Sen Zhang, Xiaofei Sun, Shuhe Wang, Jiwei Li, Runyi Hu, Tianwei Zhang, Fei Wu, Guoyin Wang* [[Paper](https://arxiv.org/abs/2308.10792)]
 
-#### In-context Learning of LLMs<a id="section4"></a>
+#### In-context Learning<a id="section3"></a>
 
-###### Prompt Learning<a id="section5"></a>
+###### Prompt Learning<a id="section4"></a>
 
 1. **A Comprehensive Survey on Instruction Following** arXiv (2024.01)
 
@@ -253,9 +250,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 	*Jie Huang, Kevin Chen-Chuan Chang* [[Paper](https://arxiv.org/abs/2212.10403)] [[GitHub](https://github.com/jeffhj/LM-reasoning)]
 
-
-
-###### Chain of Thought<a id="section6"></a>
+###### Chain of Thought<a id="section5"></a>
 
 1. **A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future** arXiv (2023.10)
 
@@ -277,7 +272,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 	*Jiankai Sun, Chuanyang Zheng, Enze Xie, Zhengying Liu, Ruihang Chu, Jianing Qiu, Jiaqi Xu, Mingyu Ding, Hongyang Li, Mengzhe Geng, Yue Wu, Wenhai Wang, Junsong Chen, Zhangyue Yin, Xiaozhe Ren, Jie Fu, Junxian He, Wu Yuan, Qi Liu, Xihui Liu, Yu Li, Hao Dong, Yu Cheng, Ming Zhang, Pheng Ann Heng, Jifeng Dai, Ping Luo, Jingdong Wang, Ji-Rong Wen, Xipeng Qiu, Yike Guo, Hui Xiong, Qun Liu, Zhenguo Li* [[Paper](https://arxiv.org/pdf/2312.11562.pdf)] [[GitHub](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models)]
 
-#### Data<a id="section7"></a>
+#### Data<a id="section6"></a>
 
 1. **Data Management For Large Language Models: A Survey** arXiv (2023.12)
 
@@ -299,7 +294,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 	*Jiahao Wang, Bolin Zhang, Qianlong Du, Jiajun Zhang, Dianhui Chu* [[Paper](https://arxiv.org/abs/2402.05123)]
 
-#### Evaluation<a id="section8"></a>
+#### Evaluation<a id="section7"></a>
 
 1. **Evaluating Large Language Models: A Comprehensive Survey** arXiv (2023.10)
 
@@ -313,7 +308,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 	*MC Frank* [[Paper](https://www.nature.com/articles/s44159-023-00211-x)]
 
-#### Societal Issues<a id="section9"></a>
+#### Societal Issues<a id="section8"></a>
 
 1. **A Survey on Fairness in Large Language Models** arXiv (2023.08)
 
@@ -335,9 +330,9 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 	*Isabel O. Gallegos, Ryan A. Rossi, Joe Barrow, Md Mehrab Tanjim, Sungchul Kim, Franck Dernoncourt, Tong Yu, Ruiyi Zhang, Nesreen K. Ahmed* [[Paper](https://arxiv.org/abs/2309.00770)] [[GitHub](https://github.com/i-gallegos/Fair-LLM-Benchmark)]
 
-#### Safety<a id="section10"></a>
+#### Safety<a id="section9"></a>
 
-###### LLMs-Generated Detection<a id="section11"></a>
+###### Source Detection<a id="section10"></a>
 
 1. **A Survey on Detection of LLMs-Generated Content** arXiv (2023.10)
 
@@ -355,9 +350,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 	*Ruixiang Tang, Yu-Neng Chuang, Xia Hu* [[Paper](https://arxiv.org/abs/2303.07205)]
 
-
-
-###### Security<a id="section12"></a>
+###### Security<a id="section11"></a>
 
 1. **Survey of Vulnerabilities in Large Language Models Revealed by Adversarial Attacks** arXiv (2023.1)
 
@@ -375,11 +368,9 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 	*Xiaowei Huang, Wenjie Ruan, Wei Huang, Gaojie Jin, Yi Dong, Changshun Wu, Saddek Bensalem, Ronghui Mu, Yi Qi, Xingyu Zhao, Kaiwen Cai, Yanghao Zhang, Sihao Wu, Peipei Xu, Dengyu Wu, Andre Freitas, Mustafa A. Mustafa* [[Paper](https://arxiv.org/abs/2305.11391)]
 
-#### Misinformation<a id="section13"></a>
+#### Misinformation<a id="section12"></a>
 
-
-
-###### Hallucinations<a id="section14"></a>
+###### Hallucinations<a id="section13"></a>
 
 1. **Can Knowledge Graphs Reduce Hallucinations in LLMs? : A Survey** arXiv (2023.11)
 
@@ -409,9 +400,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 	*S.M Towhidul Islam Tonmoy, S M Mehedi Zaman, Vinija Jain, Anku Rani, Vipula Rawte, Aman Chadha, Amitava Das* [[Paper](https://arxiv.org/pdf/2401.01313.pdf)]
 
-
-
-###### Factuality<a id="section15"></a>
+###### Factuality<a id="section14"></a>
 
 1. **Trustworthy LLMs: a Survey and Guideline for Evaluating Large Language Models' Alignment** arXiv (2023.08)
 
@@ -425,7 +414,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 	*Paul Youssef, Osman Alperen Koraş, Meijie Li, Jörg Schlötterer, Christin Seifert* [[Paper](https://arxiv.org/pdf/2310.16570.pdf)]
 
-#### Attributes of LLMs<a id="section16"></a>
+#### Attributes of LLMs<a id="section15"></a>
 
 1. **Explainability for Large Language Models: A Survey** arXiv (2023.09)
 
@@ -451,7 +440,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 	*Mengnan Du, Fengxiang He, Na Zou, Dacheng Tao, Xia Hu* [[Paper](https://dl.acm.org/doi/10.1145/3596490)]
 
-#### Efficient LLMs<a id="section17"></a>
+#### Efficient LLMs<a id="section16"></a>
 
 1. **Efficient Large Language Models: A Survey** arXiv (2023.12)
 
@@ -497,7 +486,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 	*Christoforos Kachris* [[Paper](https://arxiv.org/pdf/2401.09890.pdf)]
 
-#### Learning Methods for LLMs<a id="section19"></a>
+#### Learning Methods for LLMs<a id="section17"></a>
 
 1. **Knowledge Unlearning for LLMs: Tasks, Methods, and Challenges** arXiv (2023.11)
 
@@ -515,11 +504,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 	*Ke Yang, Jiateng Liu, John Wu, Chaoqi Yang, Yi R. Fung, Sha Li, Zixuan Huang, Xu Cao, Xingyao Wang, Yiquan Wang, Heng Ji, Chengxiang Zhai* [[Paper](https://arxiv.org/pdf/2401.00812.pdf)]
 
-#### Multimodality LLMs<a id="section20"></a>
-
-
-
-###### Vision LLMs<a id="section21"></a>
+#### Multimodality LLMs<a id="section18"></a>
 
 1. **Vision-Language Instruction Tuning: A Review and Analysis** arXiv (2023,11)
 
@@ -537,35 +522,29 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 	*Yunlong Tang, Jing Bi, Siting Xu, Luchuan Song, Susan Liang, Teng Wang, Daoan Zhang, Jie An, Jingyang Lin, Rongyi Zhu, Ali Vosoughi, Chao Huang, Zeliang Zhang, Feng Zheng, Jianguo Zhang, Ping Luo, Jiebo Luo, Chenliang Xu* [[Paper](https://arxiv.org/pdf/2312.17432.pdf)] [[GitHub](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding)]
 
-
-
-###### Other<a id="section22"></a>
-
-1. **Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook** arXiv (2023.10)
+5. **Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook** arXiv (2023.10)
 
 	*Ming Jin, Qingsong Wen, Yuxuan Liang, Chaoli Zhang, Siqiao Xue, Xue Wang, James Zhang, Yi Wang, Haifeng Chen, Xiaoli Li, Shirui Pan, Vincent S. Tseng, Yu Zheng, Lei Chen, Hui Xiong* [[Paper](https://arxiv.org/abs/2310.10196)] [[GitHub](https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM)]
 
-2. **Sparks of large audio models: A survey and outlook** arXiv (2023.08)
+6. **Sparks of large audio models: A survey and outlook** arXiv (2023.08)
 
 	*Siddique Latif, Moazzam Shoukat, Fahad Shamshad, Muhammad Usama, Yi Ren, Heriberto Cuayáhuitl, Wenwu Wang, Xulong Zhang, Roberto Togneri, Erik Cambria, Björn W. Schuller* [[Paper](https://arxiv.org/pdf/2308.12792.pdf)] [[GitHub](https://github.com/EmulationAI/awesome-large-audio-models)]
 
-3. **How to Bridge the Gap between Modalities: A Comprehensive Survey on Multimodal Large Language Model** arXiv (2023.11)
+7. **How to Bridge the Gap between Modalities: A Comprehensive Survey on Multimodal Large Language Model** arXiv (2023.11)
 
 	*Shezheng Song, Xiaopeng Li, Shasha Li, Shan Zhao, Jie Yu, Jun Ma, Xiaoguang Mao, Weimin Zhang* [[Paper](https://arxiv.org/pdf/2311.07594.pdf)]
 
-4. **A Survey on Multimodal Large Language Models** arXiv (2023.06)
+8. **A Survey on Multimodal Large Language Models** arXiv (2023.06)
 
 	*Shukang Yin, Chaoyou Fu, Sirui Zhao, Ke Li, Xing Sun, Tong Xu, Enhong Chen* [[Paper](https://arxiv.org/abs/2306.13549)]
 
-5. **Multimodal Large Language Models: A Survey** arXiv (2023.11)
+9. **Multimodal Large Language Models: A Survey** arXiv (2023.11)
 
 	*Jiayang Wu, Wensheng Gan, Zefeng Chen, Shicheng Wan, Philip S. Yu* [[Paper](https://arxiv.org/pdf/2311.13165.pdf)]
 
-#### Knowledge based LLMs<a id="section23"></a>
+#### Knowledge based LLMs<a id="section19"></a>
 
-
-
-###### Retrieval-Augmented<a id="section24"></a>
+###### Retrieval-Augmented<a id="section20"></a>
 
 1. **Building trust in conversational ai: A comprehensive review and solution architecture for explainable, privacy-aware systems using llms and knowledge graph** arXiv (2023.08)
 
@@ -579,9 +558,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 	*Yunfan Gao, Yun Xiong, Xinyu Gao, Kangxiang Jia, Jinliu Pan, Yuxi Bi, Yi Dai, Jiawei Sun, Qianyu Guo, Meng Wang, Haofen Wang* [[Paper](https://arxiv.org/abs/2312.10997)] [[GitHub](https://github.com/Tongji-KGLLM/RAG-Survey)]
 
-
-
-###### Knowledge Editing<a id="section25"></a>
+###### Knowledge Editing<a id="section21"></a>
 
 1. **The Contribution of Knowledge in Visiolinguistic Learning: A Survey on Tasks and Challenges** arXiv (2023.03)
 
@@ -599,11 +576,9 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 	*Yunzhi Yao, Peng Wang, Bozhong Tian, Siyuan Cheng, Zhoubo Li, Shumin Deng, Huajun Chen, Ningyu Zhang* [[Paper](https://arxiv.org/abs/2305.13172)]
 
-#### Extension of LLMs<a id="section26"></a>
+#### Extension of LLMs<a id="section22"></a>
 
-
-
-###### LLMs with Tools<a id="section27"></a>
+###### LLMs with Tools<a id="section23"></a>
 
 1. **Foundation Models for Decision Making: Problems, Methods, and Opportunities** arXiv (2023.03)
 
@@ -625,9 +600,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 	*Daoguang Zan, Bei Chen, Fengji Zhang, Dianjie Lu, Bingchao Wu, Bei Guan, Yongji Wang, Jian-Guang Lou* [[Paper](https://arxiv.org/abs/2212.09420)]
 
-
-
-###### LLMs And Interactions<a id="section28"></a>
+###### LLMs and Interactions<a id="section24"></a>
 
 1. **Large Language Models for Robotics: A Survey** arXiv (2023.11)
 
@@ -665,7 +638,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 	*Murray Shanahan, Kyle McDonell & Laria Reynolds* [[Paper](https://www.nature.com/articles/s41586-023-06647-8)]
 
-#### Long Sequence LLMs<a id="section29"></a>
+#### Long Sequence LLMs<a id="section25"></a>
 
 1. **Advancing Transformer Architecture in Long-Context Large Language Models: A Comprehensive Survey** arXiv (2023.11)
 
@@ -675,11 +648,9 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 	*Liang Zhao, Xiaocheng Feng, Xiachong Feng, Bing Qin, Ting Liu* [[Paper](https://arxiv.org/abs/2312.17044)]
 
-#### LLMs Applications<a id="section30"></a>
+#### LLMs Applications<a id="section26"></a>
 
-
-
-###### Education<a id="section31"></a>
+###### Education<a id="section27"></a>
 
 1. **ChatGPT and Beyond: The Generative AI Revolution in Education** arXiv (2023.11)
 
@@ -693,9 +664,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 	*Enkelejda Kasneci , Kathrin Sessler , Stefan Küchemann , Maria Bannert , Daryna Dementieva , Frank Fischer , Urs Gasser , Georg Groh , Stephan Günnemann  Eyke Hüllermeier , Stephan Krusche , Gitta Kutyniok , Tilman Michaeli , Claudia Nerdel , Jürgen Pfeffer , Oleksandra Poquet , Michael Sailer , Albrecht Schmidt , Tina Seidel , Matthias Stadler …Gjergji Kasneci* [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1041608023000195)]
 
-
-
-###### Law<a id="section32"></a>
+###### Law<a id="section28"></a>
 
 1. **Large Language Models in Law: A Survey** arXiv (2023.11)
 
@@ -705,9 +674,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 	*Zhongxiang Sun* [[Paper](https://arxiv.org/abs/2303.09136)]
 
-
-
-###### Health<a id="section33"></a>
+###### Health<a id="section29"></a>
 
 1. **A Survey of Large Language Models in Medicine: Progress, Application, and Challenge** arXiv (2023.11)
 
@@ -757,17 +724,13 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 	*Michael Wornow, Yizhe Xu, Rahul Thapa, Birju Patel, Ethan Steinberg, Scott Fleming, Michael A. Pfeffer, Jason Fries, Nigam H. Shah* [[Paper](https://arxiv.org/abs/2303.12961)]
 
-
-
-###### Finance<a id="section34"></a>
+###### Finance<a id="section30"></a>
 
 1. **Large Language Models in Finance: A Survey** ICAIF (2023.11)
 
 	*Yinheng Li, Shaofei Wang, Han Ding, Hang Chen* [[Paper](https://dl.acm.org/doi/10.1145/3604237.3626869)]
 
-
-
-###### Game<a id="section35"></a>
+###### Game<a id="section31"></a>
 
 1. **Large Language Models and Games: A Survey and Roadmap** arXiv (2024.02)
 
@@ -777,9 +740,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 	*Penny Sweetser* [[Paper](https://arxiv.org/abs/2403.02613)]
 
-
-
-###### NLP Task<a id="section36"></a>
+###### NLP Task<a id="section32"></a>
 
 1. **Large Language Models for Information Retrieval: A Survey** arXiv (2023.08)
 
@@ -793,9 +754,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 	*Bonan Min, Hayley Ross, Elior Sulem, Amir Pouran Ben Veyseh, Thien Huu Nguyen, Oscar Sainz, Eneko Agirre, Ilana Heinz, Dan Roth* [[Paper](https://arxiv.org/abs/2111.01243)]
 
-
-
-###### Software Engineering<a id="section37"></a>
+###### Software Engineering<a id="section33"></a>
 
 1. **Large Language Models for Software Engineering: Survey and Open Problems** arXiv (2023.10)
 
@@ -809,9 +768,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 	*Junjie Wang, Yuchao Huang, Chunyang Chen, Zhe Liu, Song Wang, Qing Wang* [[Paper](https://arxiv.org/abs/2307.07221)]
 
-
-
-###### Recommender System<a id="section38"></a>
+###### Recommender System<a id="section34"></a>
 
 1. **Foundation Models for Recommender Systems: A Survey and New Perspectives** arXiv (2024.02)
 
@@ -837,9 +794,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 	*Jianghao Lin, Xinyi Dai, Yunjia Xi, Weiwen Liu, Bo Chen, Hao Zhang, Yong Liu, Chuhan Wu, Xiangyang Li, Chenxu Zhu, Huifeng Guo, Yong Yu, Ruiming Tang, Weinan Zhang* [[Paper](https://arxiv.org/abs/2306.05817)] [[GitHub](https://github.com/CHIANGEL/Awesome-LLM-for-RecSys/)]
 
-
-
-###### Other<a id="section39"></a>
+###### Other<a id="section35"></a>
 
 1. **A Survey of Graph Meets Large Language Model: Progress and Future Directions** arXiv (2023.11)
 
@@ -876,8 +831,6 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 9. **AI-Augmented Surveys: Leveraging Large Language Models and Surveys for Opinion Prediction** arXiv (2023.09)
 
 	*Junsol Kim, Byungkyu Lee* [[Paper](https://arxiv.org/abs/2305.09620)]
-
-
 
 
 
