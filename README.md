@@ -80,7 +80,7 @@ We follow the concerning track and hot topic on **Large Language Modeling** rese
 	- [Team Members](#team-members)
 	- [Acknowledge](#acknowledge) -->
 
-+ [General Survey](#section1)
++ [General Surveys](#section1)
 + [Alignment](#section2)
 + [In-context Learning](#section3)
 	+ [Prompt Learning](#section4)
@@ -97,7 +97,7 @@ We follow the concerning track and hot topic on **Large Language Modeling** rese
 + [Attributes of LLMs](#section15)
 + [Efficient LLMs](#section16)
 + [Learning Methods for LLMs](#section17)
-+ [Multimodality LLMs](#section18)
++ [Multimodal LLMs](#section18)
 + [Knowledge Based LLMs](#section19)
 	+ [Retrieval-Augmented](#section20)
 	+ [Knowledge Editing](#section21)
@@ -111,9 +111,9 @@ We follow the concerning track and hot topic on **Large Language Modeling** rese
 	+ [Health](#section29)
 	+ [Finance](#section30)
 	+ [Game](#section31)
-	+ [NLP Task](#section32)
+	+ [NLP Tasks](#section32)
 	+ [Software Engineering](#section33)
-	+ [Recommender System](#section34)
+	+ [Recommender Systems](#section34)
 	+ [Other](#section35)
 
 
@@ -154,7 +154,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 ## 📜 The LLMs Paper List
 
-#### ﻿General Survey<a id="section1"></a>
+#### ﻿General Surveys<a id="section1"></a>
 
 1. **Large Language Models: A Survey** arXiv (2024.02)
 
@@ -504,7 +504,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 	*Ke Yang, Jiateng Liu, John Wu, Chaoqi Yang, Yi R. Fung, Sha Li, Zixuan Huang, Xu Cao, Xingyao Wang, Yiquan Wang, Heng Ji, Chengxiang Zhai* [[Paper](https://arxiv.org/pdf/2401.00812.pdf)]
 
-#### Multimodality LLMs<a id="section18"></a>
+#### Multimodal LLMs<a id="section18"></a>
 
 1. **Vision-Language Instruction Tuning: A Review and Analysis** arXiv (2023,11)
 
@@ -740,7 +740,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 	*Penny Sweetser* [[Paper](https://arxiv.org/abs/2403.02613)]
 
-###### NLP Task<a id="section32"></a>
+###### NLP Tasks<a id="section32"></a>
 
 1. **Large Language Models for Information Retrieval: A Survey** arXiv (2023.08)
 
@@ -768,7 +768,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 	*Junjie Wang, Yuchao Huang, Chunyang Chen, Zhe Liu, Song Wang, Qing Wang* [[Paper](https://arxiv.org/abs/2307.07221)]
 
-###### Recommender System<a id="section34"></a>
+###### Recommender Systems<a id="section34"></a>
 
 1. **Foundation Models for Recommender Systems: A Survey and New Perspectives** arXiv (2024.02)
 
