@@ -157,7 +157,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 ## 📜 The LLMs Paper List
 
-#### ﻿General Survey<a id="section1"></a>
+#### General Survey<a id="section1"></a>
 
 1. **Large Language Models: A Survey** arXiv (2024.02)
 
@@ -201,8 +201,6 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 #### Alignment<a id="section2"></a>
 
-#### instruction-tuning，reinforcement learning，supervised learning<a id="section3"></a>
-
 1. **Bridging the Gap: A Survey on Integrating (Human) Feedback for Natural Language Generation** arXiv (2023.06)
 
 	*Patrick Fernandes, Aman Madaan, Emmy Liu, António Farinhas, Pedro Henrique Martins, Amanda Bertsch, José G. C. de Souza, Shuyan Zhou, Tongshuang Wu, Graham Neubig, André F. T. Martins* [[Paper](https://arxiv.org/abs/2305.00955)]
@@ -228,8 +226,6 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 	*Shengyu Zhang, Linfeng Dong, Xiaoya Li, Sen Zhang, Xiaofei Sun, Shuhe Wang, Jiwei Li, Runyi Hu, Tianwei Zhang, Fei Wu, Guoyin Wang* [[Paper](https://arxiv.org/abs/2308.10792)]
 
 #### In-context Learning of LLMs<a id="section4"></a>
-
-
 
 ###### Prompt learning<a id="section5"></a>
 
@@ -340,8 +336,6 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 	*Isabel O. Gallegos, Ryan A. Rossi, Joe Barrow, Md Mehrab Tanjim, Sungchul Kim, Franck Dernoncourt, Tong Yu, Ruiyi Zhang, Nesreen K. Ahmed* [[Paper](https://arxiv.org/abs/2309.00770)] [[GitHub](https://github.com/i-gallegos/Fair-LLM-Benchmark)]
 
 #### Safety<a id="section10"></a>
-
-
 
 ###### LLMs-Generated Detection<a id="section11"></a>
 
@@ -458,10 +452,6 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 	*Mengnan Du, Fengxiang He, Na Zou, Dacheng Tao, Xia Hu* [[Paper](https://dl.acm.org/doi/10.1145/3596490)]
 
 #### Efficiency of LLMs<a id="section17"></a>
-
-
-
-###### Compute efficient<a id="section18"></a>
 
 1. **Efficient Large Language Models: A Survey** arXiv (2023.12)
 
