@@ -95,7 +95,7 @@ We follow the concerning track and hot topic on **Large Language Modeling** rese
 	+ [Hallucinations](#section14)
 	+ [Factuality](#section15)
 + [Attributes of LLMs](#section16)
-+ [Efficiency of LLMs](#section17)
++ [Efficient LLMs](#section17)
 + [Learning Methods for LLMs](#section19)
 + [Multimodality LLMs](#section20)
 	+ [Vision LLMs](#section21)
@@ -106,7 +106,7 @@ We follow the concerning track and hot topic on **Large Language Modeling** rese
 + [Extension of LLMs](#section26)
 	+ [LLMs with tools](#section27)
 	+ [LLMs and interactions](#section28)
-+ [Long Sequence of LLMs](#section29)
++ [Long Sequence LLMs](#section29)
 + [LLMs Applications](#section30)
 	+ [Education](#section31)
 	+ [Law](#section32)
@@ -451,7 +451,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 	*Mengnan Du, Fengxiang He, Na Zou, Dacheng Tao, Xia Hu* [[Paper](https://dl.acm.org/doi/10.1145/3596490)]
 
-#### Efficiency of LLMs<a id="section17"></a>
+#### Efficient LLMs<a id="section17"></a>
 
 1. **Efficient Large Language Models: A Survey** arXiv (2023.12)
 
@@ -665,7 +665,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 	*Murray Shanahan, Kyle McDonell & Laria Reynolds* [[Paper](https://www.nature.com/articles/s41586-023-06647-8)]
 
-#### Long Sequence of LLMs<a id="section29"></a>
+#### Long Sequence LLMs<a id="section29"></a>
 
 1. **Advancing Transformer Architecture in Long-Context Large Language Models: A Comprehensive Survey** arXiv (2023.11)
 
