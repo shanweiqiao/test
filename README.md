@@ -98,7 +98,7 @@ We follow the concerning track and hot topic on **Large Language Modeling** rese
 + [Efficient LLMs](#section16)
 + [Learning Methods for LLMs](#section17)
 + [Multimodality LLMs](#section18)
-+ [Knowledge based LLMs](#section19)
++ [Knowledge Based LLMs](#section19)
 	+ [Retrieval-Augmented](#section20)
 	+ [Knowledge Editing](#section21)
 + [Extension of LLMs](#section22)
@@ -542,7 +542,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 	*Jiayang Wu, Wensheng Gan, Zefeng Chen, Shicheng Wan, Philip S. Yu* [[Paper](https://arxiv.org/pdf/2311.13165.pdf)]
 
-#### Knowledge based LLMs<a id="section19"></a>
+#### Knowledge Based LLMs<a id="section19"></a>
 
 ###### Retrieval-Augmented<a id="section20"></a>
 
