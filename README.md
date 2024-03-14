@@ -96,11 +96,10 @@ We follow the concerning track and hot topic on **Large Language Modeling** rese
 	+ [Factuality](#section15)
 + [Attributes of LLMs](#section16)
 + [Efficiency of LLMs](#section17)
-	+ [Compute efficient](#section18)
 + [Learning Methods for LLMs](#section19)
 + [Multimodality LLMs](#section20)
-+ [Vision LLMs](#section21)
-+ [other](#section22)
+	+ [Vision LLMs](#section21)
+	+ [Other](#section22)
 + [Knowledge based LLMs](#section23)
 	+ [Retrieval-augmented](#section24)
 	+ [Knowledge editing](#section25)
@@ -118,9 +117,6 @@ We follow the concerning track and hot topic on **Large Language Modeling** rese
 	+ [Software engineering](#section37)
 	+ [Recommender system](#section38)
 	+ [Other field](#section39)
-
-
-
 
 
 
@@ -161,7 +157,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 ## 📜 The LLMs Paper List
 
-#### General Survey<a id="section1"></a>
+#### ﻿General Survey<a id="section1"></a>
 
 1. **Large Language Models: A Survey** arXiv (2024.02)
 
@@ -204,6 +200,8 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 	*Abeba Birhane* [[Paper](https://www.nature.com/articles/s42254-023-00581-4)]
 
 #### Alignment<a id="section2"></a>
+
+#### instruction-tuning，reinforcement learning，supervised learning<a id="section3"></a>
 
 1. **Bridging the Gap: A Survey on Integrating (Human) Feedback for Natural Language Generation** arXiv (2023.06)
 
@@ -529,7 +527,9 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 #### Multimodality LLMs<a id="section20"></a>
 
-#### Vision LLMs<a id="section21"></a>
+
+
+###### Vision LLMs<a id="section21"></a>
 
 1. **Vision-Language Instruction Tuning: A Review and Analysis** arXiv (2023,11)
 
@@ -547,7 +547,9 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 	*Yunlong Tang, Jing Bi, Siting Xu, Luchuan Song, Susan Liang, Teng Wang, Daoan Zhang, Jie An, Jingyang Lin, Rongyi Zhu, Ali Vosoughi, Chao Huang, Zeliang Zhang, Feng Zheng, Jianguo Zhang, Ping Luo, Jiebo Luo, Chenliang Xu* [[Paper](https://arxiv.org/pdf/2312.17432.pdf)] [[GitHub](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding)]
 
-#### other<a id="section22"></a>
+
+
+###### Other<a id="section22"></a>
 
 1. **Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook** arXiv (2023.10)
 
@@ -884,13 +886,6 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 9. **AI-Augmented Surveys: Leveraging Large Language Models and Surveys for Opinion Prediction** arXiv (2023.09)
 
 	*Junsol Kim, Byungkyu Lee* [[Paper](https://arxiv.org/abs/2305.09620)]
-
-
-
-
-
-
-
 
 
 
