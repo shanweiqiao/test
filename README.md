@@ -83,8 +83,8 @@ We follow the concerning track and hot topic on **Large Language Modeling** rese
 + [General Survey](#section1)
 + [Alignment](#section2)
 + [In-context Learning of LLMs](#section4)
-	+ [Prompt learning](#section5)
-	+ [Chain of thought](#section6)
+	+ [Prompt Learning](#section5)
+	+ [Chain of Thought](#section6)
 + [Data](#section7)
 + [Evaluation](#section8)
 + [Societal Issues](#section9)
@@ -101,11 +101,11 @@ We follow the concerning track and hot topic on **Large Language Modeling** rese
 	+ [Vision LLMs](#section21)
 	+ [Other](#section22)
 + [Knowledge based LLMs](#section23)
-	+ [Retrieval-augmented](#section24)
-	+ [Knowledge editing](#section25)
+	+ [Retrieval-Augmented](#section24)
+	+ [Knowledge Editing](#section25)
 + [Extension of LLMs](#section26)
-	+ [LLMs with tools](#section27)
-	+ [LLMs and interactions](#section28)
+	+ [LLMs with Tools](#section27)
+	+ [LLMs And Interactions](#section28)
 + [Long Sequence LLMs](#section29)
 + [LLMs Applications](#section30)
 	+ [Education](#section31)
@@ -113,10 +113,10 @@ We follow the concerning track and hot topic on **Large Language Modeling** rese
 	+ [Health](#section33)
 	+ [Finance](#section34)
 	+ [Game](#section35)
-	+ [NLP task](#section36)
-	+ [Software engineering](#section37)
-	+ [Recommender system](#section38)
-	+ [Other field](#section39)
+	+ [NLP Task](#section36)
+	+ [Software Engineering](#section37)
+	+ [Recommender System](#section38)
+	+ [Other](#section39)
 
 
 
@@ -227,7 +227,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 #### In-context Learning of LLMs<a id="section4"></a>
 
-###### Prompt learning<a id="section5"></a>
+###### Prompt Learning<a id="section5"></a>
 
 1. **A Comprehensive Survey on Instruction Following** arXiv (2024.01)
 
@@ -255,7 +255,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 
 
-###### Chain of thought<a id="section6"></a>
+###### Chain of Thought<a id="section6"></a>
 
 1. **A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future** arXiv (2023.10)
 
@@ -565,7 +565,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 
 
-###### Retrieval-augmented<a id="section24"></a>
+###### Retrieval-Augmented<a id="section24"></a>
 
 1. **Building trust in conversational ai: A comprehensive review and solution architecture for explainable, privacy-aware systems using llms and knowledge graph** arXiv (2023.08)
 
@@ -581,7 +581,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 
 
-###### Knowledge editing<a id="section25"></a>
+###### Knowledge Editing<a id="section25"></a>
 
 1. **The Contribution of Knowledge in Visiolinguistic Learning: A Survey on Tasks and Challenges** arXiv (2023.03)
 
@@ -603,7 +603,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 
 
-###### LLMs with tools<a id="section27"></a>
+###### LLMs with Tools<a id="section27"></a>
 
 1. **Foundation Models for Decision Making: Problems, Methods, and Opportunities** arXiv (2023.03)
 
@@ -627,7 +627,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 
 
-###### LLMs and interactions<a id="section28"></a>
+###### LLMs And Interactions<a id="section28"></a>
 
 1. **Large Language Models for Robotics: A Survey** arXiv (2023.11)
 
@@ -779,7 +779,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 
 
-###### NLP task<a id="section36"></a>
+###### NLP Task<a id="section36"></a>
 
 1. **Large Language Models for Information Retrieval: A Survey** arXiv (2023.08)
 
@@ -795,7 +795,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 
 
-###### Software engineering<a id="section37"></a>
+###### Software Engineering<a id="section37"></a>
 
 1. **Large Language Models for Software Engineering: Survey and Open Problems** arXiv (2023.10)
 
@@ -811,7 +811,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 
 
-###### Recommender system<a id="section38"></a>
+###### Recommender System<a id="section38"></a>
 
 1. **Foundation Models for Recommender Systems: A Survey and New Perspectives** arXiv (2024.02)
 
@@ -839,7 +839,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 
 
-###### Other field<a id="section39"></a>
+###### Other<a id="section39"></a>
 
 1. **A Survey of Graph Meets Large Language Model: Progress and Future Directions** arXiv (2023.11)
 
