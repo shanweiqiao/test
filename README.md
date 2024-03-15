@@ -482,7 +482,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 - **Large Language Models on Graphs: A Comprehensive Survey**, arXiv 2023.12 [[Paper](https://arxiv.org/pdf/2312.02783.pdf)] [[GitHub](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs)]
 
-- **<font color=RED >The Contribution of Knowledge in Visiolinguistic Learning: A Survey on Tasks and Challenges</font>**, arXiv 2023.03 [[Paper](https://arxiv.org/abs/2303.02411)]
+- **[The Contribution of Knowledge in Visiolinguistic Learning: A Survey on Tasks and Challenges]**, arXiv 2023.03 [[Paper](https://arxiv.org/abs/2303.02411)]
 
 ###### Other<a id="section39"></a>
 
