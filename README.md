@@ -64,6 +64,7 @@ Large language models (LLMs) are making sweeping advances across many fields of 
 	+ [Other](#section38)
 
 
+
 <!-- To reduce class imbalance, we separate some of the hot sub-topics from the original categorization of ACL and ICML submissions. E.g., Named Entity Recognition is a first-level area in our categorization because it is the focus of several surveys. -->
 
 <!-- ## Statistics
@@ -100,7 +101,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 ## Survey List
 
-#### ﻿General Surveys<a id="section1"></a>
+#### General Surveys<a id="section1"></a>
 
 - **Large Language Models: A Survey**, arXiv 2024.02 [[Paper](https://arxiv.org/abs/2402.06196)]
 
@@ -204,7 +205,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 - **Should chatgpt be biased? challenges and risks of bias in large language models**, arXiv 2023.04 [[Paper](https://arxiv.org/abs/2304.03738)]
 
-- **Bias and Fairness in Large Language Models: A Survey**, arXiv 2024.03 [[Paper](https://arxiv.org/abs/2309.00770)] [[GitHub](https://github.com/i-gallegos/Fair-LLM-Benchmark)]
+- **Bias and Fairness in Large Language Models: A Survey**, arXiv 2023.09 [[Paper](https://arxiv.org/abs/2309.00770)] [[GitHub](https://github.com/i-gallegos/Fair-LLM-Benchmark)]
 
 #### Safety<a id="section12"></a>
 
@@ -220,13 +221,13 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 ###### Security<a id="section14"></a>
 
-- **Survey of Vulnerabilities in Large Language Models Revealed by Adversarial Attacks**, arXiv 2023.1 [[Paper](https://arxiv.org/pdf/2310.10844.pdf)]
+- **Survey of Vulnerabilities in Large Language Models Revealed by Adversarial Attacks**, arXiv 2023.10 [[Paper](https://arxiv.org/pdf/2310.10844.pdf)]
 
 - **A Survey on Large Language Model (LLM) Security and Privacy: The Good, the Bad, and the Ugly**, arXiv 2023.12 [[Paper](https://arxiv.org/pdf/2312.02003)]
 
 - **Tricking LLMs into Disobedience: Formalizing, Analyzing, and Detecting Jailbreaks**, arXiv 2023.05 [[Paper](https://arxiv.org/abs/2305.14965)]
 
-- **A Survey of Safety and Trustworthiness of Large Language Models through the Lens of Verification and Validation**, arXiv 2023.08 [[Paper](https://arxiv.org/abs/2305.11391)]
+- **A Survey of Safety and Trustworthiness of Large Language Models through the Lens of Verification and Validation**, arXiv 2023.05 [[Paper](https://arxiv.org/abs/2305.11391)]
 
 #### Misinformation<a id="section15"></a>
 
@@ -284,7 +285,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 - **A Survey on Knowledge Distillation of Large Language Models**, arXiv 2024.02 [[Paper](https://arxiv.org/pdf/2402.13116.pdf)]
 
-- **The Efficiency Spectrum of Large Language Models: An Algorithmic Survey**, arXiv 2023.12 [[Paper](https://arxiv.org/pdf/2310.10844.pdf)] [[GitHub](https://github.com/tding1/Efficient-LLM-Survey)]
+- **The Efficiency Spectrum of Large Language Models: An Algorithmic Survey**, arXiv 2023.10 [[Paper](https://arxiv.org/pdf/2310.10844.pdf)] [[GitHub](https://github.com/tding1/Efficient-LLM-Survey)]
 
 - **Parameter-Efficient Fine-Tuning Methods for Pretrained Language Models: A Critical Review and Assessment**, arXiv 2023.12 [[Paper](https://arxiv.org/pdf/2312.12148.pdf)]
 
@@ -330,13 +331,13 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 - **A Survey on Retrieval-Augmented Text Generation**, arXiv 2022.02 [[Paper](https://arxiv.org/abs/2202.01110)]
 
-- **Retrieval-Augmented Generation for Large Language Models: A Survey**, arXiv 2024.1 [[Paper](https://arxiv.org/abs/2312.10997)] [[GitHub](https://github.com/Tongji-KGLLM/RAG-Survey)]
+- **Retrieval-Augmented Generation for Large Language Models: A Survey**, arXiv 2023.12 [[Paper](https://arxiv.org/abs/2312.10997)] [[GitHub](https://github.com/Tongji-KGLLM/RAG-Survey)]
 
 ###### Knowledge Editing<a id="section24"></a>
 
 - **Trends in Integration of Knowledge and Large Language Models: A Survey and Taxonomy of Methods, Benchmarks, and Applications**, arXiv 2023.11 [[Paper](https://arxiv.org/pdf/2311.05876.pdf)]
 
-- **Knowledge Editing for Large Language Models: A Survey**, arXiv 2023.1 [[Paper](https://arxiv.org/pdf/2310.16218.pdf)]
+- **Knowledge Editing for Large Language Models: A Survey**, arXiv 2023.10 [[Paper](https://arxiv.org/pdf/2310.16218.pdf)]
 
 - **Editing Large Language Models: Problems, Methods, and Opportunities**, arXiv 2023.05 [[Paper](https://arxiv.org/abs/2305.13172)]
 
@@ -410,7 +411,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 - **Towards a Psychological Generalist AI: A Survey of Current Applications of Large Language Models and Future Prospects**, arXiv 2023.12 [[Paper](https://arxiv.org/abs/2312.04578)]
 
-- **Large Language Models in Mental Health Care: a Scoping Review**, arXiv 2024.02 [[Paper](https://arxiv.org/abs/2401.02984)]
+- **Large Language Models in Mental Health Care: a Scoping Review**, arXiv 2024.01 [[Paper](https://arxiv.org/abs/2401.02984)]
 
 - **The utility of ChatGPT as an example of large language models in healthcare education, research and practice: Systematic review on the future perspectives and**, arXiv 2023.12 [[Paper](https://www.medrxiv.org/content/10.1101/2023.02.19.23286155v1)]
 
@@ -442,7 +443,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 - **Large Language Models for Software Engineering: A Systematic Literature Review**, arXiv 2023.08 [[Paper](https://arxiv.org/abs/2308.10620)]
 
-- **Software Testing with Large Language Models: Survey, Landscape, and Vision**, arXiv 2024.03 [[Paper](https://arxiv.org/abs/2307.07221)]
+- **Software Testing with Large Language Models: Survey, Landscape, and Vision**, arXiv 2023.07 [[Paper](https://arxiv.org/abs/2307.07221)]
 
 ###### Recommender Systems<a id="section36"></a>
 
@@ -456,7 +457,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 - **A Survey on Large Language Models for Recommendation**, arXiv 2023.05 [[Paper](https://arxiv.org/abs/2305.19860)] [[GitHub](https://github.com/WLiK/LLM4Rec)]
 
-- **How Can Recommender Systems Benefit from Large Language Models: A Survey**, arXiv 2023.01 [[Paper](https://arxiv.org/abs/2306.05817)] [[GitHub](https://github.com/CHIANGEL/Awesome-LLM-for-RecSys/)]
+- **How Can Recommender Systems Benefit from Large Language Models: A Survey**, arXiv 2023.06 [[Paper](https://arxiv.org/abs/2306.05817)] [[GitHub](https://github.com/CHIANGEL/Awesome-LLM-for-RecSys/)]
 
 ###### Graphs<a id="section37"></a>
 
@@ -483,6 +484,8 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 - **The future of gpt: A taxonomy of existing chatgpt research, current challenges, and possible future directions**, SSRN 2023.04 [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4413921)]
 
 - **Summary of ChatGPT-Related Research and Perspective Towards the Future of Large Language Models**, Meta-Radiology 2023.08 [[Paper](https://www.sciencedirect.com/science/article/pii/S2950162823000176)]
+
+
 
 
 
