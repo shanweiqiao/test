@@ -314,7 +314,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 - **Continual Learning for Large Language Models: A Survey**, arXiv 2024.02 [[Paper](https://arxiv.org/abs/2402.01364)]
 
-- **<font color=#FF000 >If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code Empowers Large Language Models to Serve as Intelligent Agents</font>**, arXiv 2024.01 [[Paper](https://arxiv.org/pdf/2401.00812.pdf)]
+- **<font color=RED >If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code Empowers Large Language Models to Serve as Intelligent Agents</font>**, arXiv 2024.01 [[Paper](https://arxiv.org/pdf/2401.00812.pdf)]
 
 #### Multimodal LLMs<a id="section21"></a>
 
@@ -376,7 +376,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 - **LLM4Drive: A Survey of Large Language Models for Autonomous Driving**, arXiv 2023.11 [[Paper](https://arxiv.org/abs/2311.01043v3)] [[GitHub](https://github.com/Thinklab-SJTU/Awesome-LLM4AD)]
 
-- **<font color=#FF000 >Automatically Correcting Large Language Models: Surveying the landscape of diverse self-correction strategies</font>**, arXiv 2023.08 [[Paper](https://arxiv.org/abs/2308.03188)] [[GitHub](https://github.com/teacherpeterpan/self-correction-llm-papers)]
+- **<font color=RED >Automatically Correcting Large Language Models: Surveying the landscape of diverse self-correction strategies</font>**, arXiv 2023.08 [[Paper](https://arxiv.org/abs/2308.03188)] [[GitHub](https://github.com/teacherpeterpan/self-correction-llm-papers)]
 
 - **A Survey on Large Language Model based Autonomous Agents**, arXiv  2023.08 [[Paper](https://arxiv.org/abs/2308.11432)] [[GitHub](https://github.com/Paitesanshi/LLM-Agent-Survey)]
 
@@ -482,7 +482,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 - **Large Language Models on Graphs: A Comprehensive Survey**, arXiv 2023.12 [[Paper](https://arxiv.org/pdf/2312.02783.pdf)] [[GitHub](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs)]
 
-- **<font color=#FF000 >The Contribution of Knowledge in Visiolinguistic Learning: A Survey on Tasks and Challenges</font>**, arXiv 2023.03 [[Paper](https://arxiv.org/abs/2303.02411)]
+- **<font color=RED >The Contribution of Knowledge in Visiolinguistic Learning: A Survey on Tasks and Challenges</font>**, arXiv 2023.03 [[Paper](https://arxiv.org/abs/2303.02411)]
 
 ###### Other<a id="section39"></a>
 
