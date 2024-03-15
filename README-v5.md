@@ -55,14 +55,15 @@ Large language models (LLMs) are making sweeping advances across many fields of 
 + [LLMs Applications](#section29)
 	+ [Education](#section30)
 	+ [Law](#section31)
-	+ [Healthcare](#section32)
+	+ [Health](#section32)
 	+ [Finance](#section33)
-	+ [Games](#section34)
+	+ [Game](#section34)
 	+ [NLP Tasks](#section35)
 	+ [Software Engineering](#section36)
 	+ [Recommender Systems](#section37)
-	+ [Graphs](#section38)
+	+ [Graph](#section38)
 	+ [Other](#section39)
+
 
 
 <!-- To reduce class imbalance, we separate some of the hot sub-topics from the original categorization of ACL and ICML submissions. E.g., Named Entity Recognition is a first-level area in our categorization because it is the focus of several surveys. -->
@@ -123,11 +124,23 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 - **Attention Mechanism, Transformers, BERT, and GPT: Tutorial and Survey**, arXiv 2020.12 [[Paper](https://osf.io/preprints/osf/m6gcn)]
 
+- **Survey of BERT (Bidirectional Encoder Representation Transformer) types**, arXiv 2021 [[Paper](https://iopscience.iop.org/article/10.1088/1742-6596/1963/1/012173/meta)]
+
+- **Neural Architecture Search for Transformers: A Survey Transformer**, arXiv 2022.10 [[Paper](https://ieeexplore.ieee.org/abstract/document/9913476)]
+
 - **Efficient Transformers: A Survey**, arXiv 2022.12 [[Paper](https://dl.acm.org/doi/full/10.1145/3530811)]
 
 - **A Practical Survey on Faster and Lighter Transformers**, arXiv 2023.07 [[Paper](https://dl.acm.org/doi/abs/10.1145/3586074)]
 
-- **Introduction to Transformers: an NLP Perspective**, arXiv 2023.11 [[Paper](https://arxiv.org/abs/2311.17633)]
+- **Position Information in Transformers: An Overview**, arXiv 2021.02 [[Paper](https://arxiv.org/abs/2102.11090)]
+
+- **Advancing Transformer Architecture in Long-Context Large Language Models: A Comprehensive Survey**, arXiv 2023.11 [[Paper](https://arxiv.org/abs/2311.12351)]
+
+- **A survey of visual transformers**, arXiv 2023.03 [[Paper](https://ieeexplore.ieee.org/abstract/document/10088164/)]
+
+- **Transformers in Vision: A Survey**, arXiv 2022.09 [[Paper](https://dl.acm.org/doi/abs/10.1145/3505244)]
+
+- **Transformer for Graphs: An Overview from Architecture Perspective**, arXiv 2022.12 [[Paper](https://arxiv.org/abs/2202.08455)]
 
 #### Alignment<a id="section3"></a>
 
@@ -269,8 +282,6 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 - **Shortcut Learning of Large Language Models in Natural Language Understanding**, COMMUN ACM 2023.12  [[Paper](https://dl.acm.org/doi/10.1145/3596490)]
 
-- **Automatically Correcting Large Language Models: Surveying the landscape of diverse self-correction strategies**, arXiv 2023.08 [[Paper](https://arxiv.org/abs/2308.03188)] [[GitHub](https://github.com/teacherpeterpan/self-correction-llm-papers)]
-
 #### Efficient LLMs<a id="section19"></a>
 
 - **Efficient Large Language Models: A Survey**, arXiv 2023.12 [[Paper](https://arxiv.org/abs/2312.03863)] [[GitHub](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)]
@@ -302,6 +313,8 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 - **Continual Learning with Pre-Trained Models: A Survey**, arXiv 2024.01 [[Paper](https://arxiv.org/pdf/2401.16386)] [[GitHub](https://github.com/sun-hailong/LAMDA-PILOT)]
 
 - **Continual Learning for Large Language Models: A Survey**, arXiv 2024.02 [[Paper](https://arxiv.org/abs/2402.01364)]
+
+- **[If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code Empowers Large Language Models to Serve as Intelligent Agents]()**, arXiv 2024.01 [[Paper](https://arxiv.org/pdf/2401.00812.pdf)]
 
 #### Multimodal LLMs<a id="section21"></a>
 
@@ -363,6 +376,8 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 - **LLM4Drive: A Survey of Large Language Models for Autonomous Driving**, arXiv 2023.11 [[Paper](https://arxiv.org/abs/2311.01043v3)] [[GitHub](https://github.com/Thinklab-SJTU/Awesome-LLM4AD)]
 
+- **[Automatically Correcting Large Language Models: Surveying the landscape of diverse self-correction strategies]()**, arXiv 2023.08 [[Paper](https://arxiv.org/abs/2308.03188)] [[GitHub](https://github.com/teacherpeterpan/self-correction-llm-papers)]
+
 - **A Survey on Large Language Model based Autonomous Agents**, arXiv  2023.08 [[Paper](https://arxiv.org/abs/2308.11432)] [[GitHub](https://github.com/Paitesanshi/LLM-Agent-Survey)]
 
 - **The Rise and Potential of Large Language Model Based Agents: A Survey**, arXiv 2023.09 [[Paper](https://arxiv.org/abs/2309.07864)] [[GitHub](https://github.com/WooooDyy/LLM-Agent-Paper-List)]
@@ -395,7 +410,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 - **A short survey of viewing large language models in legal aspect**, arXiv 2023.03 [[Paper](https://arxiv.org/abs/2303.09136)]
 
-###### Healthcare<a id="section32"></a>
+###### Health<a id="section32"></a>
 
 - **A Survey of Large Language Models in Medicine: Progress, Application, and Challenge**, arXiv 2023.11 [[Paper](https://arxiv.org/abs/2311.05112)] [[GitHub](https://github.com/AI-in-Health/MedLLMsPracticalGuide)]
 
@@ -425,7 +440,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 - **Large Language Models in Finance: A Survey**, ICAIF 2023.11 [[Paper](https://dl.acm.org/doi/10.1145/3604237.3626869)]
 
-###### Games<a id="section34"></a>
+###### Game<a id="section34"></a>
 
 - **Large Language Models and Games: A Survey and Roadmap**, arXiv 2024.02 [[Paper](https://arxiv.org/abs/2402.18659)]
 
@@ -438,8 +453,6 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 - **Large Language Models for Generative Information Extraction: A Survey**, arXiv 2023.12 [[Paper](https://arxiv.org/abs/2312.17617)] [[GitHub](https://github.com/quqxui/Awesome-LLM4IE-Papers)]
 
 - **Recent Advances in Natural Language Processing via Large Pre-Trained Language Models: A Survey**, arXiv 2021.11 [[Paper](https://arxiv.org/abs/2111.01243)]
-
-- **If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code Empowers Large Language Models to Serve as Intelligent Agents**, arXiv 2024.01 [[Paper](https://arxiv.org/pdf/2401.00812.pdf)]
 
 ###### Software Engineering<a id="section36"></a>
 
@@ -463,13 +476,13 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 - **How Can Recommender Systems Benefit from Large Language Models: A Survey**, arXiv 2023.01 [[Paper](https://arxiv.org/abs/2306.05817)] [[GitHub](https://github.com/CHIANGEL/Awesome-LLM-for-RecSys/)]
 
-###### Graphs<a id="section38"></a>
+###### Graph<a id="section38"></a>
 
 - **A Survey of Graph Meets Large Language Model: Progress and Future Directions**, arXiv 2023.11 [[Paper](https://arxiv.org/pdf/2311.12399)]
 
 - **Large Language Models on Graphs: A Comprehensive Survey**, arXiv 2023.12 [[Paper](https://arxiv.org/pdf/2312.02783.pdf)] [[GitHub](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs)]
 
-- **The Contribution of Knowledge in Visiolinguistic Learning: A Survey on Tasks and Challenges**, arXiv 2023.03 [[Paper](https://arxiv.org/abs/2303.02411)]
+- **[The Contribution of Knowledge in Visiolinguistic Learning: A Survey on Tasks and Challenges]()**, arXiv 2023.03 [[Paper](https://arxiv.org/abs/2303.02411)]
 
 ###### Other<a id="section39"></a>
 
@@ -488,6 +501,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 - **The future of gpt: A taxonomy of existing chatgpt research, current challenges, and possible future directions**, SSRN 2023.04 [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4413921)]
 
 - **Summary of ChatGPT-Related Research and Perspective Towards the Future of Large Language Models**, Meta-Radiology 2023.08 [[Paper](https://www.sciencedirect.com/science/article/pii/S2950162823000176)]
+
 
 
 
