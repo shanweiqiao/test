@@ -56,13 +56,12 @@ Large language models (LLMs) are making sweeping advances across many fields of 
 	+ [Education](#section30)
 	+ [Law](#section31)
 	+ [Healthcare](#section32)
-	+ [Finance](#section33)
-	+ [Games](#section34)
-	+ [NLP Tasks](#section35)
-	+ [Software Engineering](#section36)
-	+ [Recommender Systems](#section37)
-	+ [Graphs](#section38)
-	+ [Other](#section39)
+	+ [Games](#section33)
+	+ [NLP Tasks](#section34)
+	+ [Software Engineering](#section35)
+	+ [Recommender Systems](#section36)
+	+ [Graphs](#section37)
+	+ [Other](#section38)
 
 
 <!-- To reduce class imbalance, we separate some of the hot sub-topics from the original categorization of ACL and ICML submissions. E.g., Named Entity Recognition is a first-level area in our categorization because it is the focus of several surveys. -->
@@ -421,17 +420,13 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 - **The Shaky Foundations of Clinical Foundation Models: A Survey of Large Language Models and Foundation Models for EMRs**, arXiv 2023.03 [[Paper](https://arxiv.org/abs/2303.12961)]
 
-###### Finance<a id="section33"></a>
-
-- **Large Language Models in Finance: A Survey**, ICAIF 2023.11 [[Paper](https://dl.acm.org/doi/10.1145/3604237.3626869)]
-
-###### Games<a id="section34"></a>
+###### Games<a id="section33"></a>
 
 - **Large Language Models and Games: A Survey and Roadmap**, arXiv 2024.02 [[Paper](https://arxiv.org/abs/2402.18659)]
 
 - **Large Language Models and Video Games: A Preliminary Scoping Review**, arXiv 2024.03 [[Paper](https://arxiv.org/abs/2403.02613)]
 
-###### NLP Tasks<a id="section35"></a>
+###### NLP Tasks<a id="section34"></a>
 
 - **Large Language Models for Information Retrieval: A Survey**, arXiv 2023.08 [[Paper](https://arxiv.org/abs/2308.07107)] [[GitHub](https://github.com/RUC-NLPIR/LLM4IR-Survey)]
 
@@ -441,7 +436,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 - **If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code Empowers Large Language Models to Serve as Intelligent Agents**, arXiv 2024.01 [[Paper](https://arxiv.org/pdf/2401.00812.pdf)]
 
-###### Software Engineering<a id="section36"></a>
+###### Software Engineering<a id="section35"></a>
 
 - **Large Language Models for Software Engineering: Survey and Open Problems**, arXiv 2023.10 [[Paper](https://arxiv.org/abs/2310.03533)]
 
@@ -449,7 +444,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 - **Software Testing with Large Language Models: Survey, Landscape, and Vision**, arXiv 2024.03 [[Paper](https://arxiv.org/abs/2307.07221)]
 
-###### Recommender Systems<a id="section37"></a>
+###### Recommender Systems<a id="section36"></a>
 
 - **Foundation Models for Recommender Systems: A Survey and New Perspectives**, arXiv 2024.02 [[Paper](https://arxiv.org/abs/2402.11143)]
 
@@ -463,7 +458,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 - **How Can Recommender Systems Benefit from Large Language Models: A Survey**, arXiv 2023.01 [[Paper](https://arxiv.org/abs/2306.05817)] [[GitHub](https://github.com/CHIANGEL/Awesome-LLM-for-RecSys/)]
 
-###### Graphs<a id="section38"></a>
+###### Graphs<a id="section37"></a>
 
 - **A Survey of Graph Meets Large Language Model: Progress and Future Directions**, arXiv 2023.11 [[Paper](https://arxiv.org/pdf/2311.12399)]
 
@@ -471,11 +466,9 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 - **The Contribution of Knowledge in Visiolinguistic Learning: A Survey on Tasks and Challenges**, arXiv 2023.03 [[Paper](https://arxiv.org/abs/2303.02411)]
 
-###### Other<a id="section39"></a>
+###### Other<a id="section38"></a>
 
-- **When Large Language Models Meet Citation: A Survey**, arXiv 2023.09 [[Paper](https://arxiv.org/abs/2309.09727)]
-
-- **A Survey of Text Watermarking in the Era of Large Language Models**, arXiv 2023.12 [[Paper](https://arxiv.org/abs/2312.07913)]
+- **Large Language Models in Finance: A Survey**, ICAIF 2023.11 [[Paper](https://dl.acm.org/doi/10.1145/3604237.3626869)]
 
 - **Mathematical Language Models: A Survey**, arXiv 2023.12 [[Paper](https://arxiv.org/abs/2312.07622)]
 
@@ -483,12 +476,13 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 - **Opportunities and Challenges of Applying Large Language Models in Building Energy Efficiency and Decarbonization Studies: An Exploratory Overview**, arXiv 2023.12 [[Paper](https://arxiv.org/abs/2312.11701)]
 
-- **AI-Augmented Surveys: Leveraging Large Language Models and Surveys for Opinion Prediction**, arXiv 2023.09 [[Paper](https://arxiv.org/abs/2305.09620)]
+- **When Large Language Models Meet Citation: A Survey**, arXiv 2023.09 [[Paper](https://arxiv.org/abs/2309.09727)]
+
+- **A Survey of Text Watermarking in the Era of Large Language Models**, arXiv 2023.12 [[Paper](https://arxiv.org/abs/2312.07913)]
 
 - **The future of gpt: A taxonomy of existing chatgpt research, current challenges, and possible future directions**, SSRN 2023.04 [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4413921)]
 
 - **Summary of ChatGPT-Related Research and Perspective Towards the Future of Large Language Models**, Meta-Radiology 2023.08 [[Paper](https://www.sciencedirect.com/science/article/pii/S2950162823000176)]
-
 
 
 
