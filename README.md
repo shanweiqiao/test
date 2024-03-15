@@ -186,7 +186,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 - **Towards Reasoning in Large Language Models: A Survey**, arXiv 2022.12 [[Paper](https://arxiv.org/abs/2212.10403)] [[GitHub](https://github.com/jeffhj/LM-reasoning)]
 
-- **A Survey of Reasoning with Foundation Models (放application或者general)**, arXiv 2023.12 [[Paper](https://arxiv.org/pdf/2312.11562.pdf)] [[GitHub](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models)]
+- **A Survey of Reasoning with Foundation Models**, arXiv 2023.12 [[Paper](https://arxiv.org/pdf/2312.11562.pdf)] [[GitHub](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models)]
 
 #### Data<a id="section9"></a>
 
